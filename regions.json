@@ -4,6 +4,26 @@
     "countyLabel": "County:",
     "cityLabel": "City:",
     "states": {
+      "al": {
+        "name": "Alabama",
+        "links": [],
+        "counties": {}
+      },
+      "ak": {
+        "name": "Alaska",
+        "links": [],
+        "counties": {}
+      },
+      "az": {
+        "name": "Arizona",
+        "links": [],
+        "counties": {}
+      },
+      "ar": {
+        "name": "Arkansas",
+        "links": [],
+        "counties": {}
+      },
       "ca": {
         "name": "California",
         "links": [],
@@ -24,26 +44,6 @@
             }
           }
         }
-      },
-      "al": {
-        "name": "Alabama",
-        "links": [],
-        "counties": {}
-      },
-      "ak": {
-        "name": "Alaska",
-        "links": [],
-        "counties": {}
-      },
-      "az": {
-        "name": "Arizona",
-        "links": [],
-        "counties": {}
-      },
-      "ar": {
-        "name": "Arkansas",
-        "links": [],
-        "counties": {}
       },
       "co": {
         "name": "Colorado",
