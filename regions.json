@@ -1047,147 +1047,327 @@
             "cities": {
               "auburn": {
                 "name": "Auburn",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Auburn Building Division",
+                    "url": "https://www.auburn.ca.gov/411/Building-Division"
+                  }
+                ]
               },
               "colfax": {
                 "name": "Colfax",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Colfax Building Department",
+                    "url": "https://colfax-ca.gov/government/building/"
+                  }
+                ]
               },
               "lincoln": {
                 "name": "Lincoln",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Lincoln Building Division",
+                    "url": "https://www.lincolnca.gov/business-and-development/get-a-permit/building-permits/"
+                  }
+                ]
               },
               "loomis": {
                 "name": "Loomis",
-                "links": []
+                "links": [
+                  {
+                    "title": "Town of Loomis Building Division",
+                    "url": "https://loomis.ca.gov/buildingpermits/"
+                  }
+                ]
               },
               "rocklin": {
                 "name": "Rocklin",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Rocklin Building Division",
+                    "url": "https://www.rocklin.ca.gov/257/Building-Services"
+                  }
+                ]
               },
               "roseville": {
                 "name": "Roseville",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Roseville Building Division",
+                    "url": "https://www.roseville.ca.gov/development_services/building/building_permits.php"
+                  }
+                ]
               },
               "alta": {
                 "name": "Alta",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "applegate": {
                 "name": "Applegate",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "bowman": {
                 "name": "Bowman",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "carnelian bay": {
                 "name": "Carnelian Bay",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "cedar flat": {
                 "name": "Cedar Flat",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "dollar point": {
                 "name": "Dollar Point",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "dutch flat": {
                 "name": "Dutch Flat",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "emigrant gap": {
                 "name": "Emigrant Gap",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "foresthill": {
                 "name": "Foresthill",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "gold run": {
                 "name": "Gold Run",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "granite bay": {
                 "name": "Granite Bay",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "homewood": {
                 "name": "Homewood",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "iowa hill": {
                 "name": "Iowa Hill",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "kings beach": {
                 "name": "Kings Beach",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "kingvale": {
                 "name": "Kingvale",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "meadow vista": {
                 "name": "Meadow Vista",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "michigan bluff": {
                 "name": "Michigan Bluff",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "newcastle": {
                 "name": "Newcastle",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "norden": {
                 "name": "Norden",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "olympic valley": {
                 "name": "Olympic Valley",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "ophir": {
                 "name": "Ophir",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "penryn": {
                 "name": "Penryn",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "rainbow": {
                 "name": "Rainbow",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "sheridan": {
                 "name": "Sheridan",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "soda springs": {
                 "name": "Soda Springs",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "sunnyside": {
                 "name": "Sunnyside",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "tahoe city": {
                 "name": "Tahoe City",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "tahoe vista": {
                 "name": "Tahoe Vista",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "todd valley": {
                 "name": "Todd Valley",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               },
               "weimar": {
                 "name": "Weimar",
-                "links": []
+                "links": [
+                  {
+                    "title": "Placer County Building Services Division",
+                    "url": "https://www.placer.ca.gov/2190/Building-Permits"
+                  }
+                ]
               }
             }
           },
