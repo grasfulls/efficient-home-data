@@ -70,7 +70,12 @@
           },
           "amador county": {
             "name": "Amador County",
-            "links": [],
+            "links": [
+              {
+                "title": "Building Permits",
+                "url": "https://www.amadorcounty.gov/departments/building"
+              }
+            ],
             "cities": {}
           },
           "butte county": {
