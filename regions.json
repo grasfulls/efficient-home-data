@@ -4,124 +4,45 @@
     "countyLabel": "County:",
     "cityLabel": "City:",
     "states": {
-      "al": { "name": "Alabama", "links": [], "counties": {} },
-      "ak": { "name": "Alaska", "links": [], "counties": {} },
-      "az": { "name": "Arizona", "links": [], "counties": {} },
-      "ar": { "name": "Arkansas", "links": [], "counties": {} },
-      "ca": { 
-        "name": "California", 
-        "links": [
-          { "title": "California Energy Commission (CEC)", "url": "https://www.energy.ca.gov/" }, 
-          { "title": "GoSolarCalifornia Incentives", "url": "https://www.gosolarcalifornia.ca.gov/" } 
-        ], 
+      "ca": {
+        "name": "ca",
+        "links": [],
         "counties": {
           "placer": {
-            "name": "Placer County",
-            "links": [
-              { "title": "Placer County Resource Conservation District", "url": "https://www.placerrcd.org/" }
-            ],
+            "name": "placer",
+            "links": [],
             "cities": {
               "newcastle": {
-                "name": "Newcastle",
+                "name": "newcastle",
                 "links": [
-                  { "title": "Placer County Building Services & Permits", "url": "https://www.placer.ca.gov/2324/Building-Services" }, 
-                  { "title": "PG&E Rebates & Efficiency Programs", "url": "https://www.pge.com/" } 
+                  {
+                    "title": "Test Permit",
+                    "url": "https://www.placer.ca.gov/"
+                  }
                 ]
               }
             }
           }
-        } 
-      },
-      "co": { "name": "Colorado", "links": [], "counties": {} },
-      "ct": { "name": "Connecticut", "links": [], "counties": {} },
-      "de": { "name": "Delaware", "links": [], "counties": {} },
-      "fl": { "name": "Florida", "links": [], "counties": {} },
-      "ga": { "name": "Georgia", "links": [], "counties": {} },
-      "hi": { "name": "Hawaii", "links": [], "counties": {} },
-      "id": { "name": "Idaho", "links": [], "counties": {} },
-      "il": { "name": "Illinois", "links": [], "counties": {} },
-      "in": { "name": "Indiana", "links": [], "counties": {} },
-      "ia": { "name": "Iowa", "links": [], "counties": {} },
-      "ks": { "name": "Kansas", "links": [], "counties": {} },
-      "ky": { "name": "Kentucky", "links": [], "counties": {} },
-      "la": { "name": "Louisiana", "links": [], "counties": {} },
-      "me": { "name": "Maine", "links": [], "counties": {} },
-      "md": { "name": "Maryland", "links": [], "counties": {} },
-      "ma": { "name": "Massachusetts", "links": [], "counties": {} },
-      "mi": { "name": "Michigan", "links": [], "counties": {} },
-      "mn": { "name": "Minnesota", "links": [], "counties": {} },
-      "ms": { "name": "Mississippi", "links": [], "counties": {} },
-      "mo": { "name": "Missouri", "links": [], "counties": {} },
-      "mt": { "name": "Montana", "links": [], "counties": {} },
-      "ne": { "name": "Nebraska", "links": [], "counties": {} },
-      "nv": { "name": "Nevada", "links": [], "counties": {} },
-      "nh": { "name": "New Hampshire", "links": [], "counties": {} },
-      "nj": { "name": "New Jersey", "links": [], "counties": {} },
-      "nm": { "name": "New Mexico", "links": [], "counties": {} },
-      "ny": { "name": "New York", "links": [], "counties": {} },
-      "nc": { "name": "North Carolina", "links": [], "counties": {} },
-      "nd": { "name": "North Dakota", "links": [], "counties": {} },
-      "oh": { "name": "Ohio", "links": [], "counties": {} },
-      "ok": { "name": "Oklahoma", "links": [], "counties": {} },
-      "or": { "name": "Oregon", "links": [], "counties": {} },
-      "pa": { "name": "Pennsylvania", "links": [], "counties": {} },
-      "ri": { "name": "Rhode Island", "links": [], "counties": {} },
-      "sc": { "name": "South Carolina", "links": [], "counties": {} },
-      "sd": { "name": "South Dakota", "links": [], "counties": {} },
-      "tn": { "name": "Tennessee", "links": [], "counties": {} },
-      "tx": { "name": "Texas", "links": [], "counties": {} },
-      "ut": { "name": "Utah", "links": [], "counties": {} },
-      "vt": { "name": "Vermont", "links": [], "counties": {} },
-      "va": { "name": "Virginia", "links": [], "counties": {} },
-      "wa": { "name": "Washington", "links": [], "counties": {} },
-      "wv": { "name": "West Virginia", "links": [], "counties": {} },
-      "wi": { "name": "Wisconsin", "links": [], "counties": {} },
-      "wy": { "name": "Wyoming", "links": [], "counties": {} }
+        }
+      }
     },
     "links": [
-      { "title": "US Department of Energy - Energy Saver", "url": "https://www.energy.gov/energysaver" }
+      {
+        "title": "US Department of Energy - Energy Saver",
+        "url": "https://www.energy.gov/energysaver"
+      }
     ]
   },
   "ca": {
     "stateLabel": "Province / Territory:",
     "countyLabel": "County / Region:",
     "cityLabel": "City / Town:",
-    "states": {
-      "ab": { "name": "Alberta", "links": [], "counties": {} },
-      "bc": { "name": "British Columbia", "links": [], "counties": {} },
-      "mb": { "name": "Manitoba", "links": [], "counties": {} },
-      "nb": { "name": "New Brunswick", "links": [], "counties": {} },
-      "nl": { "name": "Newfoundland and Labrador", "links": [], "counties": {} },
-      "ns": { "name": "Nova Scotia", "links": [], "counties": {} },
-      "nt": { "name": "Northwest Territories", "links": [], "counties": {} },
-      "nu": { "name": "Nunavut", "links": [], "counties": {} },
-      "on": { 
-        "name": "Ontario", 
-        "links": [
-          { "title": "Enbridge Gas Home Efficiency Rebates", "url": "https://www.enbridgegas.com/" }
-        ], 
-        "counties": {
-          "toronto_div": {
-            "name": "Toronto Region",
-            "links": [],
-            "cities": {
-              "toronto": {
-                "name": "Toronto",
-                "links": [
-                  { "title": "City of Toronto Building Permits & AHJ", "url": "https://www.toronto.ca/" }
-                ]
-              }
-            }
-          }
-        } 
-      },
-      "pe": { "name": "Prince Edward Island", "links": [], "counties": {} },
-      "qc": { "name": "Quebec", "links": [], "counties": {} },
-      "sk": { "name": "Saskatchewan", "links": [], "counties": {} },
-      "yt": { "name": "Yukon", "links": [], "counties": {} }
-    },
+    "states": {},
     "links": [
-      { "title": "Natural Resources Canada - Energy Efficiency", "url": "https://www.nrcan.gc.ca/" }
+      {
+        "title": "Natural Resources Canada - Energy Efficiency",
+        "url": "https://www.nrcan.gc.ca/"
+      }
     ]
   }
 }
