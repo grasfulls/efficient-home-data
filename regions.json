@@ -250,13 +250,13 @@
         "links": [],
         "counties": {}
       },
-      "wa": {
-        "name": "Washington",
+      "wv": {
+        "name": "West Virginia",
         "links": [],
         "counties": {}
       },
-      "wv": {
-        "name": "West Virginia",
+      "wa": {
+        "name": "Western Australia",
         "links": [],
         "counties": {}
       },
@@ -353,6 +353,59 @@
       {
         "title": "Natural Resources Canada - Energy Efficiency",
         "url": "https://www.nrcan.gc.ca/"
+      }
+    ]
+  },
+  "au": {
+    "stateLabel": "State / Territory:",
+    "countyLabel": "Region / District:",
+    "cityLabel": "City / Town:",
+    "states": {
+      "act": {
+        "name": "Australian Capital Territory",
+        "links": [],
+        "counties": {}
+      },
+      "nsw": {
+        "name": "New South Wales",
+        "links": [],
+        "counties": {}
+      },
+      "nt": {
+        "name": "Northwest Territories",
+        "links": [],
+        "counties": {}
+      },
+      "qld": {
+        "name": "Queensland",
+        "links": [],
+        "counties": {}
+      },
+      "sa": {
+        "name": "South Australia",
+        "links": [],
+        "counties": {}
+      },
+      "tas": {
+        "name": "Tasmania",
+        "links": [],
+        "counties": {}
+      },
+      "vic": {
+        "name": "Victoria",
+        "links": [],
+        "counties": {}
+      },
+      "wa": {
+        "name": "Western Australia",
+        "links": [],
+        "counties": {}
+      }
+    },
+    "links": [
+      {
+        "title": "Australian Government - Energy Efficiency",
+        "url": "https://www.energy.gov.au/"
       }
     ]
   }
