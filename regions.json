@@ -5,7 +5,7 @@
     "cityLabel": "City:",
     "states": {
       "ca": {
-        "name": "ca",
+        "name": "California",
         "links": [],
         "counties": {
           "placer": {
@@ -26,247 +26,247 @@
         }
       },
       "al": {
-        "name": "al",
+        "name": "Alabama",
         "links": [],
         "counties": {}
       },
       "ak": {
-        "name": "ak",
+        "name": "Alaska",
         "links": [],
         "counties": {}
       },
       "az": {
-        "name": "az",
+        "name": "Arizona",
         "links": [],
         "counties": {}
       },
       "ar": {
-        "name": "ar",
+        "name": "Arkansas",
         "links": [],
         "counties": {}
       },
       "co": {
-        "name": "co",
+        "name": "Colorado",
         "links": [],
         "counties": {}
       },
       "ct": {
-        "name": "ct",
+        "name": "Connecticut",
         "links": [],
         "counties": {}
       },
       "de": {
-        "name": "de",
+        "name": "Delaware",
         "links": [],
         "counties": {}
       },
       "fl": {
-        "name": "fl",
+        "name": "Florida",
         "links": [],
         "counties": {}
       },
       "ga": {
-        "name": "ga",
+        "name": "Georgia",
         "links": [],
         "counties": {}
       },
       "hi": {
-        "name": "hi",
+        "name": "Hawaii",
         "links": [],
         "counties": {}
       },
       "id": {
-        "name": "id",
+        "name": "Idaho",
         "links": [],
         "counties": {}
       },
       "il": {
-        "name": "il",
+        "name": "Illinois",
         "links": [],
         "counties": {}
       },
       "in": {
-        "name": "in",
+        "name": "Indiana",
         "links": [],
         "counties": {}
       },
       "ia": {
-        "name": "ia",
+        "name": "Iowa",
         "links": [],
         "counties": {}
       },
       "ks": {
-        "name": "ks",
+        "name": "Kansas",
         "links": [],
         "counties": {}
       },
       "ky": {
-        "name": "ky",
+        "name": "Kentucky",
         "links": [],
         "counties": {}
       },
       "la": {
-        "name": "la",
+        "name": "Louisiana",
         "links": [],
         "counties": {}
       },
       "me": {
-        "name": "me",
+        "name": "Maine",
         "links": [],
         "counties": {}
       },
       "md": {
-        "name": "md",
+        "name": "Maryland",
         "links": [],
         "counties": {}
       },
       "ma": {
-        "name": "ma",
+        "name": "Massachusetts",
         "links": [],
         "counties": {}
       },
       "mi": {
-        "name": "mi",
+        "name": "Michigan",
         "links": [],
         "counties": {}
       },
       "mn": {
-        "name": "mn",
+        "name": "Minnesota",
         "links": [],
         "counties": {}
       },
       "ms": {
-        "name": "ms",
+        "name": "Mississippi",
         "links": [],
         "counties": {}
       },
       "mo": {
-        "name": "mo",
+        "name": "Missouri",
         "links": [],
         "counties": {}
       },
       "mt": {
-        "name": "mt",
+        "name": "Montana",
         "links": [],
         "counties": {}
       },
       "ne": {
-        "name": "ne",
+        "name": "Nebraska",
         "links": [],
         "counties": {}
       },
       "nv": {
-        "name": "nv",
+        "name": "Nevada",
         "links": [],
         "counties": {}
       },
       "nh": {
-        "name": "nh",
+        "name": "New Hampshire",
         "links": [],
         "counties": {}
       },
       "nj": {
-        "name": "nj",
+        "name": "New Jersey",
         "links": [],
         "counties": {}
       },
       "nm": {
-        "name": "nm",
+        "name": "New Mexico",
         "links": [],
         "counties": {}
       },
       "ny": {
-        "name": "ny",
+        "name": "New York",
         "links": [],
         "counties": {}
       },
       "nc": {
-        "name": "nc",
+        "name": "North Carolina",
         "links": [],
         "counties": {}
       },
       "nd": {
-        "name": "nd",
+        "name": "North Dakota",
         "links": [],
         "counties": {}
       },
       "oh": {
-        "name": "oh",
+        "name": "Ohio",
         "links": [],
         "counties": {}
       },
       "ok": {
-        "name": "ok",
+        "name": "Oklahoma",
         "links": [],
         "counties": {}
       },
       "or": {
-        "name": "or",
+        "name": "Oregon",
         "links": [],
         "counties": {}
       },
       "pa": {
-        "name": "pa",
+        "name": "Pennsylvania",
         "links": [],
         "counties": {}
       },
       "ri": {
-        "name": "ri",
+        "name": "Rhode Island",
         "links": [],
         "counties": {}
       },
       "sc": {
-        "name": "sc",
+        "name": "South Carolina",
         "links": [],
         "counties": {}
       },
       "sd": {
-        "name": "sd",
+        "name": "South Dakota",
         "links": [],
         "counties": {}
       },
       "tn": {
-        "name": "tn",
+        "name": "Tennessee",
         "links": [],
         "counties": {}
       },
       "tx": {
-        "name": "tx",
+        "name": "Texas",
         "links": [],
         "counties": {}
       },
       "ut": {
-        "name": "ut",
+        "name": "Utah",
         "links": [],
         "counties": {}
       },
       "vt": {
-        "name": "vt",
+        "name": "Vermont",
         "links": [],
         "counties": {}
       },
       "va": {
-        "name": "va",
+        "name": "Virginia",
         "links": [],
         "counties": {}
       },
       "wa": {
-        "name": "wa",
+        "name": "Washington",
         "links": [],
         "counties": {}
       },
       "wv": {
-        "name": "wv",
+        "name": "West Virginia",
         "links": [],
         "counties": {}
       },
       "wi": {
-        "name": "wi",
+        "name": "Wisconsin",
         "links": [],
         "counties": {}
       },
       "wy": {
-        "name": "wy",
+        "name": "Wyoming",
         "links": [],
         "counties": {}
       }
