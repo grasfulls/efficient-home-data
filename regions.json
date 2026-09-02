@@ -77,13 +77,19 @@
       },
       "ct": {
         "name": "Connecticut",
-        "links": [
-          {
-            "title": "| Connecticut DEEP Energy Efficiency",
-            "url": "https://portal.ct.gov/DEEP"
+        "links": [],
+        "counties": {
+          "san luis obispo county": {
+            "name": "San Luis Obispo County",
+            "links": [
+              {
+                "title": "| Connecticut DEEP Energy Efficiency",
+                "url": "https://portal.ct.gov/DEEP"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "de": {
         "name": "Delaware",
@@ -97,13 +103,19 @@
       },
       "fl": {
         "name": "Florida",
-        "links": [
-          {
-            "title": "| Florida Office of Energy",
-            "url": "https://www.freshfromflorida.com/"
+        "links": [],
+        "counties": {
+          "san mateo county": {
+            "name": "San Mateo County",
+            "links": [
+              {
+                "title": "| Florida Office of Energy",
+                "url": "https://www.freshfromflorida.com/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "ga": {
         "name": "Georgia",
@@ -117,13 +129,19 @@
       },
       "hi": {
         "name": "Hawaii",
-        "links": [
-          {
-            "title": "| Hawaii State Energy Office",
-            "url": "https://energy.hawaii.gov/"
+        "links": [],
+        "counties": {
+          "santa barbara county": {
+            "name": "Santa Barbara County",
+            "links": [
+              {
+                "title": "| Hawaii State Energy Office",
+                "url": "https://energy.hawaii.gov/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "id": {
         "name": "Idaho",
@@ -137,13 +155,19 @@
       },
       "il": {
         "name": "Illinois",
-        "links": [
-          {
-            "title": "| Illinois EPA - Office of Energy",
-            "url": "https://epa.illinois.gov/"
+        "links": [],
+        "counties": {
+          "santa clara county": {
+            "name": "Santa Clara County",
+            "links": [
+              {
+                "title": "| Illinois EPA - Office of Energy",
+                "url": "https://epa.illinois.gov/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "in": {
         "name": "Indiana",
@@ -157,13 +181,19 @@
       },
       "ia": {
         "name": "Iowa",
-        "links": [
-          {
-            "title": "| Iowa Economic Development Authority - Energy",
-            "url": "https://www.iowaeconomicdevelopment.com/"
+        "links": [],
+        "counties": {
+          "santa cruz county": {
+            "name": "Santa Cruz County",
+            "links": [
+              {
+                "title": "| Iowa Economic Development Authority - Energy",
+                "url": "https://www.iowaeconomicdevelopment.com/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "ks": {
         "name": "Kansas",
@@ -177,13 +207,19 @@
       },
       "ky": {
         "name": "Kentucky",
-        "links": [
-          {
-            "title": "| Kentucky Energy and Environment Cabinet",
-            "url": "https://eec.ky.gov/"
+        "links": [],
+        "counties": {
+          "shasta county": {
+            "name": "Shasta County",
+            "links": [
+              {
+                "title": "| Kentucky Energy and Environment Cabinet",
+                "url": "https://eec.ky.gov/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "la": {
         "name": "Louisiana",
@@ -197,13 +233,19 @@
       },
       "me": {
         "name": "Maine",
-        "links": [
-          {
-            "title": "| Efficiency Maine",
-            "url": "https://www.efficiencymaine.com/"
+        "links": [],
+        "counties": {
+          "sierra county": {
+            "name": "Sierra County",
+            "links": [
+              {
+                "title": "| Efficiency Maine",
+                "url": "https://www.efficiencymaine.com/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "md": {
         "name": "Maryland",
@@ -217,13 +259,19 @@
       },
       "ma": {
         "name": "Massachusetts",
-        "links": [
-          {
-            "title": "| Massachusetts Department of Energy Resources",
-            "url": "https://www.mass.gov/orgs/department-of-energy-resources"
+        "links": [],
+        "counties": {
+          "siskiyou county": {
+            "name": "Siskiyou County",
+            "links": [
+              {
+                "title": "| Massachusetts Department of Energy Resources",
+                "url": "https://www.mass.gov/orgs/department-of-energy-resources"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "mi": {
         "name": "Michigan",
@@ -237,13 +285,19 @@
       },
       "mn": {
         "name": "Minnesota",
-        "links": [
-          {
-            "title": "| Minnesota Department of Commerce - Energy Division",
-            "url": "https://mn.gov/commerce/"
+        "links": [],
+        "counties": {
+          "solano county": {
+            "name": "Solano County",
+            "links": [
+              {
+                "title": "| Minnesota Department of Commerce - Energy Division",
+                "url": "https://mn.gov/commerce/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "ms": {
         "name": "Mississippi",
@@ -257,13 +311,19 @@
       },
       "mo": {
         "name": "Missouri",
-        "links": [
-          {
-            "title": "| Missouri Division of Energy",
-            "url": "https://dnr.mo.gov/energy/"
+        "links": [],
+        "counties": {
+          "sonoma county": {
+            "name": "Sonoma County",
+            "links": [
+              {
+                "title": "| Missouri Division of Energy",
+                "url": "https://dnr.mo.gov/energy/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "mt": {
         "name": "Montana",
@@ -277,13 +337,19 @@
       },
       "ne": {
         "name": "Nebraska",
-        "links": [
-          {
-            "title": "| Nebraska Energy Office",
-            "url": "https://neo.ne.gov/"
+        "links": [],
+        "counties": {
+          "stanislaus county": {
+            "name": "Stanislaus County",
+            "links": [
+              {
+                "title": "| Nebraska Energy Office",
+                "url": "https://neo.ne.gov/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "nv": {
         "name": "Nevada",
@@ -297,13 +363,19 @@
       },
       "nh": {
         "name": "New Hampshire",
-        "links": [
-          {
-            "title": "| New Hampshire Office of Strategic Initiatives",
-            "url": "https://www.nh.gov/osi/energy/"
+        "links": [],
+        "counties": {
+          "sutter county": {
+            "name": "Sutter County",
+            "links": [
+              {
+                "title": "| New Hampshire Office of Strategic Initiatives",
+                "url": "https://www.nh.gov/osi/energy/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "nj": {
         "name": "New Jersey",
@@ -317,13 +389,19 @@
       },
       "nm": {
         "name": "New Mexico",
-        "links": [
-          {
-            "title": "| New Mexico Energy, Minerals and Natural Resources Dept",
-            "url": "https://www.emnrd.nm.gov/"
+        "links": [],
+        "counties": {
+          "tehama county": {
+            "name": "Tehama County",
+            "links": [
+              {
+                "title": "| New Mexico Energy, Minerals and Natural Resources Dept",
+                "url": "https://www.emnrd.nm.gov/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "ny": {
         "name": "New York",
@@ -337,13 +415,19 @@
       },
       "nc": {
         "name": "North Carolina",
-        "links": [
-          {
-            "title": "| North Carolina Department of Environmental Quality",
-            "url": "https://deq.nc.gov/"
+        "links": [],
+        "counties": {
+          "trinity county": {
+            "name": "Trinity County",
+            "links": [
+              {
+                "title": "| North Carolina Department of Environmental Quality",
+                "url": "https://deq.nc.gov/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "nd": {
         "name": "North Dakota",
@@ -357,13 +441,19 @@
       },
       "oh": {
         "name": "Ohio",
-        "links": [
-          {
-            "title": "| Ohio Development Services Agency - Energy Office",
-            "url": "https://development.ohio.gov/"
+        "links": [],
+        "counties": {
+          "tulare county": {
+            "name": "Tulare County",
+            "links": [
+              {
+                "title": "| Ohio Development Services Agency - Energy Office",
+                "url": "https://development.ohio.gov/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "ok": {
         "name": "Oklahoma",
@@ -377,13 +467,19 @@
       },
       "or": {
         "name": "Oregon",
-        "links": [
-          {
-            "title": "| Oregon Department of Energy",
-            "url": "https://www.oregon.gov/energy/"
+        "links": [],
+        "counties": {
+          "tuolumne county": {
+            "name": "Tuolumne County",
+            "links": [
+              {
+                "title": "| Oregon Department of Energy",
+                "url": "https://www.oregon.gov/energy/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "pa": {
         "name": "Pennsylvania",
@@ -397,13 +493,19 @@
       },
       "ri": {
         "name": "Rhode Island",
-        "links": [
-          {
-            "title": "| Rhode Island Office of Energy Resources",
-            "url": "https://energy.ri.gov/"
+        "links": [],
+        "counties": {
+          "ventura county": {
+            "name": "Ventura County",
+            "links": [
+              {
+                "title": "| Rhode Island Office of Energy Resources",
+                "url": "https://energy.ri.gov/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "sc": {
         "name": "South Carolina",
@@ -417,13 +519,19 @@
       },
       "sd": {
         "name": "South Dakota",
-        "links": [
-          {
-            "title": "| South Dakota Governor's Office of Economic Development",
-            "url": "https://sdgoed.com/"
+        "links": [],
+        "counties": {
+          "yolo county": {
+            "name": "Yolo County",
+            "links": [
+              {
+                "title": "| South Dakota Governor's Office of Economic Development",
+                "url": "https://sdgoed.com/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "tn": {
         "name": "Tennessee",
@@ -437,13 +545,19 @@
       },
       "tx": {
         "name": "Texas",
-        "links": [
-          {
-            "title": "| State Energy Conservation Office (SECO) Texas",
-            "url": "https://comptroller.texas.gov/programs/seco/"
+        "links": [],
+        "counties": {
+          "yuba county": {
+            "name": "Yuba County",
+            "links": [
+              {
+                "title": "| State Energy Conservation Office (SECO) Texas",
+                "url": "https://comptroller.texas.gov/programs/seco/"
+              }
+            ],
+            "cities": {}
           }
-        ],
-        "counties": {}
+        }
       },
       "ut": {
         "name": "Utah",
