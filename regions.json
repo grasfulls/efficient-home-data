@@ -46,7 +46,12 @@
       },
       "ca": {
         "name": "California",
-        "links": [],
+        "links": [
+          {
+            "title": "California Energy Commission (CEC)",
+            "url": "https://www.energy.gov/"
+          }
+        ],
         "counties": {
           "alameda county": {
             "name": "Alameda County",
