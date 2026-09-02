@@ -1044,7 +1044,152 @@
                 "url": "https://www.placer.ca.gov/1492/Public-Works"
               }
             ],
-            "cities": {}
+            "cities": {
+              "auburn": {
+                "name": "Auburn",
+                "links": []
+              },
+              "colfax": {
+                "name": "Colfax",
+                "links": []
+              },
+              "lincoln": {
+                "name": "Lincoln",
+                "links": []
+              },
+              "loomis": {
+                "name": "Loomis",
+                "links": []
+              },
+              "rocklin": {
+                "name": "Rocklin",
+                "links": []
+              },
+              "roseville": {
+                "name": "Roseville",
+                "links": []
+              },
+              "alta": {
+                "name": "Alta",
+                "links": []
+              },
+              "applegate": {
+                "name": "Applegate",
+                "links": []
+              },
+              "bowman": {
+                "name": "Bowman",
+                "links": []
+              },
+              "carnelian bay": {
+                "name": "Carnelian Bay",
+                "links": []
+              },
+              "cedar flat": {
+                "name": "Cedar Flat",
+                "links": []
+              },
+              "dollar point": {
+                "name": "Dollar Point",
+                "links": []
+              },
+              "dutch flat": {
+                "name": "Dutch Flat",
+                "links": []
+              },
+              "emigrant gap": {
+                "name": "Emigrant Gap",
+                "links": []
+              },
+              "foresthill": {
+                "name": "Foresthill",
+                "links": []
+              },
+              "gold run": {
+                "name": "Gold Run",
+                "links": []
+              },
+              "granite bay": {
+                "name": "Granite Bay",
+                "links": []
+              },
+              "homewood": {
+                "name": "Homewood",
+                "links": []
+              },
+              "iowa hill": {
+                "name": "Iowa Hill",
+                "links": []
+              },
+              "kings beach": {
+                "name": "Kings Beach",
+                "links": []
+              },
+              "kingvale": {
+                "name": "Kingvale",
+                "links": []
+              },
+              "meadow vista": {
+                "name": "Meadow Vista",
+                "links": []
+              },
+              "michigan bluff": {
+                "name": "Michigan Bluff",
+                "links": []
+              },
+              "newcastle": {
+                "name": "Newcastle",
+                "links": []
+              },
+              "norden": {
+                "name": "Norden",
+                "links": []
+              },
+              "olympic valley": {
+                "name": "Olympic Valley",
+                "links": []
+              },
+              "ophir": {
+                "name": "Ophir",
+                "links": []
+              },
+              "penryn": {
+                "name": "Penryn",
+                "links": []
+              },
+              "rainbow": {
+                "name": "Rainbow",
+                "links": []
+              },
+              "sheridan": {
+                "name": "Sheridan",
+                "links": []
+              },
+              "soda springs": {
+                "name": "Soda Springs",
+                "links": []
+              },
+              "sunnyside": {
+                "name": "Sunnyside",
+                "links": []
+              },
+              "tahoe city": {
+                "name": "Tahoe City",
+                "links": []
+              },
+              "tahoe vista": {
+                "name": "Tahoe Vista",
+                "links": []
+              },
+              "todd valley": {
+                "name": "Todd Valley",
+                "links": []
+              },
+              "weimar": {
+                "name": "Weimar",
+                "links": []
+              }
+            }
           },
           "plumas county": {
             "name": "Plumas County",
