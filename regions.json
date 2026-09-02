@@ -6,22 +6,42 @@
     "states": {
       "al": {
         "name": "Alabama",
-        "links": [],
+        "links": [
+          {
+            "title": "| Alabama Department of Energy Resources",
+            "url": "https://www.energy.gov/"
+          }
+        ],
         "counties": {}
       },
       "ak": {
         "name": "Alaska",
-        "links": [],
+        "links": [
+          {
+            "title": "| Alaska Energy Authority",
+            "url": "https://www.akenergyauthority.org/"
+          }
+        ],
         "counties": {}
       },
       "az": {
         "name": "Arizona",
-        "links": [],
+        "links": [
+          {
+            "title": "| Arizona Commerce Authority - Energy Office",
+            "url": "https://www.azcommerce.com/"
+          }
+        ],
         "counties": {}
       },
       "ar": {
         "name": "Arkansas",
-        "links": [],
+        "links": [
+          {
+            "title": "| Arkansas Energy Office",
+            "url": "https://www.adeq.state.ar.us/"
+          }
+        ],
         "counties": {}
       },
       "ca": {
