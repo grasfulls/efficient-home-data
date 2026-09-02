@@ -44,17 +44,6 @@
         ],
         "counties": {}
       },
-      "ca": {
-        "name": "California",
-        "links": [],
-        "counties": {
-          "placer": {
-            "name": "placer",
-            "links": [],
-            "cities": {}
-          }
-        }
-      },
       "co": {
         "name": "Colorado",
         "links": [
