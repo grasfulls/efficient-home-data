@@ -12,7 +12,343 @@
             "url": "https://www.energy.gov/"
           }
         ],
-        "counties": {}
+        "counties": {
+          "autaugacounty": {
+            "name": "AutaugaCounty",
+            "links": [],
+            "cities": {}
+          },
+          "baldwincounty": {
+            "name": "BaldwinCounty",
+            "links": [],
+            "cities": {}
+          },
+          "barbourcounty": {
+            "name": "BarbourCounty",
+            "links": [],
+            "cities": {}
+          },
+          "bibbcounty": {
+            "name": "BibbCounty",
+            "links": [],
+            "cities": {}
+          },
+          "blountcounty": {
+            "name": "BlountCounty",
+            "links": [],
+            "cities": {}
+          },
+          "bullockcounty": {
+            "name": "BullockCounty",
+            "links": [],
+            "cities": {}
+          },
+          "butlercounty": {
+            "name": "ButlerCounty",
+            "links": [],
+            "cities": {}
+          },
+          "calhouncounty": {
+            "name": "CalhounCounty",
+            "links": [],
+            "cities": {}
+          },
+          "chamberscounty": {
+            "name": "ChambersCounty",
+            "links": [],
+            "cities": {}
+          },
+          "cherokeecounty": {
+            "name": "CherokeeCounty",
+            "links": [],
+            "cities": {}
+          },
+          "chiltoncounty": {
+            "name": "ChiltonCounty",
+            "links": [],
+            "cities": {}
+          },
+          "choctawcounty": {
+            "name": "ChoctawCounty",
+            "links": [],
+            "cities": {}
+          },
+          "clarkecounty": {
+            "name": "ClarkeCounty",
+            "links": [],
+            "cities": {}
+          },
+          "claycounty": {
+            "name": "ClayCounty",
+            "links": [],
+            "cities": {}
+          },
+          "cleburnecounty": {
+            "name": "CleburneCounty",
+            "links": [],
+            "cities": {}
+          },
+          "coffeecounty": {
+            "name": "CoffeeCounty",
+            "links": [],
+            "cities": {}
+          },
+          "colecounty": {
+            "name": "Colecounty",
+            "links": [],
+            "cities": {}
+          },
+          "conecuhcounty": {
+            "name": "ConecuhCounty",
+            "links": [],
+            "cities": {}
+          },
+          "coosacounty": {
+            "name": "CoosaCounty",
+            "links": [],
+            "cities": {}
+          },
+          "covingtoncounty": {
+            "name": "CovingtonCounty",
+            "links": [],
+            "cities": {}
+          },
+          "crenshawcounty": {
+            "name": "CrenshawCounty",
+            "links": [],
+            "cities": {}
+          },
+          "cullmancounty": {
+            "name": "CullmanCounty",
+            "links": [],
+            "cities": {}
+          },
+          "dalecounty": {
+            "name": "DaleCounty",
+            "links": [],
+            "cities": {}
+          },
+          "dallascounty": {
+            "name": "DallasCounty",
+            "links": [],
+            "cities": {}
+          },
+          "dekalbcounty": {
+            "name": "DeKalbCounty",
+            "links": [],
+            "cities": {}
+          },
+          "elmorecounty": {
+            "name": "ElmoreCounty",
+            "links": [],
+            "cities": {}
+          },
+          "escambiacounty": {
+            "name": "EscambiaCounty",
+            "links": [],
+            "cities": {}
+          },
+          "etowahcounty": {
+            "name": "EtowahCounty",
+            "links": [],
+            "cities": {}
+          },
+          "fayettecounty": {
+            "name": "FayetteCounty",
+            "links": [],
+            "cities": {}
+          },
+          "franklincounty": {
+            "name": "FranklinCounty",
+            "links": [],
+            "cities": {}
+          },
+          "genevacounty": {
+            "name": "GenevaCounty",
+            "links": [],
+            "cities": {}
+          },
+          "greenecounty": {
+            "name": "GreeneCounty",
+            "links": [],
+            "cities": {}
+          },
+          "halecounty": {
+            "name": "HaleCounty",
+            "links": [],
+            "cities": {}
+          },
+          "henrycounty": {
+            "name": "HenryCounty",
+            "links": [],
+            "cities": {}
+          },
+          "houstoncounty": {
+            "name": "HoustonCounty",
+            "links": [],
+            "cities": {}
+          },
+          "jacksoncounty": {
+            "name": "JacksonCounty",
+            "links": [],
+            "cities": {}
+          },
+          "jeffersoncounty": {
+            "name": "JeffersonCounty",
+            "links": [],
+            "cities": {}
+          },
+          "lamarcounty": {
+            "name": "LamarCounty",
+            "links": [],
+            "cities": {}
+          },
+          "lauderdalecounty": {
+            "name": "LauderdaleCounty",
+            "links": [],
+            "cities": {}
+          },
+          "lawrencecounty": {
+            "name": "LawrenceCounty",
+            "links": [],
+            "cities": {}
+          },
+          "leecounty": {
+            "name": "LeeCounty",
+            "links": [],
+            "cities": {}
+          },
+          "limestonecounty": {
+            "name": "LimestoneCounty",
+            "links": [],
+            "cities": {}
+          },
+          "lowndescounty": {
+            "name": "LowndesCounty",
+            "links": [],
+            "cities": {}
+          },
+          "maconcounty": {
+            "name": "MaconCounty",
+            "links": [],
+            "cities": {}
+          },
+          "madisoncounty": {
+            "name": "MadisonCounty",
+            "links": [],
+            "cities": {}
+          },
+          "marengocounty": {
+            "name": "MarengoCounty",
+            "links": [],
+            "cities": {}
+          },
+          "marioncounty": {
+            "name": "MarionCounty",
+            "links": [],
+            "cities": {}
+          },
+          "marshallcounty": {
+            "name": "MarshallCounty",
+            "links": [],
+            "cities": {}
+          },
+          "mobilecounty": {
+            "name": "MobileCounty",
+            "links": [],
+            "cities": {}
+          },
+          "monroecounty": {
+            "name": "MonroeCounty",
+            "links": [],
+            "cities": {}
+          },
+          "montgomerycounty": {
+            "name": "MontgomeryCounty",
+            "links": [],
+            "cities": {}
+          },
+          "morgancounty": {
+            "name": "MorganCounty",
+            "links": [],
+            "cities": {}
+          },
+          "perrycounty": {
+            "name": "PerryCounty",
+            "links": [],
+            "cities": {}
+          },
+          "pickenscounty": {
+            "name": "PickensCounty",
+            "links": [],
+            "cities": {}
+          },
+          "pikecounty": {
+            "name": "PikeCounty",
+            "links": [],
+            "cities": {}
+          },
+          "randolphcounty": {
+            "name": "RandolphCounty",
+            "links": [],
+            "cities": {}
+          },
+          "russellcounty": {
+            "name": "RussellCounty",
+            "links": [],
+            "cities": {}
+          },
+          "shelbycounty": {
+            "name": "ShelbyCounty",
+            "links": [],
+            "cities": {}
+          },
+          "st.claircounty": {
+            "name": "St.ClairCounty",
+            "links": [],
+            "cities": {}
+          },
+          "sumtercounty": {
+            "name": "SumterCounty",
+            "links": [],
+            "cities": {}
+          },
+          "talladegacounty": {
+            "name": "TalladegaCounty",
+            "links": [],
+            "cities": {}
+          },
+          "tallapoosacounty": {
+            "name": "TallapoosaCounty",
+            "links": [],
+            "cities": {}
+          },
+          "tuscaloosacounty": {
+            "name": "TuscaloosaCounty",
+            "links": [],
+            "cities": {}
+          },
+          "walkercounty": {
+            "name": "WalkerCounty",
+            "links": [],
+            "cities": {}
+          },
+          "washingtoncounty": {
+            "name": "WashingtonCounty",
+            "links": [],
+            "cities": {}
+          },
+          "wilcoxcounty": {
+            "name": "WilcoxCounty",
+            "links": [],
+            "cities": {}
+          },
+          "winstoncounty": {
+            "name": "WinstonCounty",
+            "links": [],
+            "cities": {}
+          }
+        }
       },
       "ak": {
         "name": "Alaska",
