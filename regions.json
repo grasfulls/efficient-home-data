@@ -24,6 +24,251 @@
             }
           }
         }
+      },
+      "al": {
+        "name": "al",
+        "links": [],
+        "counties": {}
+      },
+      "ak": {
+        "name": "ak",
+        "links": [],
+        "counties": {}
+      },
+      "az": {
+        "name": "az",
+        "links": [],
+        "counties": {}
+      },
+      "ar": {
+        "name": "ar",
+        "links": [],
+        "counties": {}
+      },
+      "co": {
+        "name": "co",
+        "links": [],
+        "counties": {}
+      },
+      "ct": {
+        "name": "ct",
+        "links": [],
+        "counties": {}
+      },
+      "de": {
+        "name": "de",
+        "links": [],
+        "counties": {}
+      },
+      "fl": {
+        "name": "fl",
+        "links": [],
+        "counties": {}
+      },
+      "ga": {
+        "name": "ga",
+        "links": [],
+        "counties": {}
+      },
+      "hi": {
+        "name": "hi",
+        "links": [],
+        "counties": {}
+      },
+      "id": {
+        "name": "id",
+        "links": [],
+        "counties": {}
+      },
+      "il": {
+        "name": "il",
+        "links": [],
+        "counties": {}
+      },
+      "in": {
+        "name": "in",
+        "links": [],
+        "counties": {}
+      },
+      "ia": {
+        "name": "ia",
+        "links": [],
+        "counties": {}
+      },
+      "ks": {
+        "name": "ks",
+        "links": [],
+        "counties": {}
+      },
+      "ky": {
+        "name": "ky",
+        "links": [],
+        "counties": {}
+      },
+      "la": {
+        "name": "la",
+        "links": [],
+        "counties": {}
+      },
+      "me": {
+        "name": "me",
+        "links": [],
+        "counties": {}
+      },
+      "md": {
+        "name": "md",
+        "links": [],
+        "counties": {}
+      },
+      "ma": {
+        "name": "ma",
+        "links": [],
+        "counties": {}
+      },
+      "mi": {
+        "name": "mi",
+        "links": [],
+        "counties": {}
+      },
+      "mn": {
+        "name": "mn",
+        "links": [],
+        "counties": {}
+      },
+      "ms": {
+        "name": "ms",
+        "links": [],
+        "counties": {}
+      },
+      "mo": {
+        "name": "mo",
+        "links": [],
+        "counties": {}
+      },
+      "mt": {
+        "name": "mt",
+        "links": [],
+        "counties": {}
+      },
+      "ne": {
+        "name": "ne",
+        "links": [],
+        "counties": {}
+      },
+      "nv": {
+        "name": "nv",
+        "links": [],
+        "counties": {}
+      },
+      "nh": {
+        "name": "nh",
+        "links": [],
+        "counties": {}
+      },
+      "nj": {
+        "name": "nj",
+        "links": [],
+        "counties": {}
+      },
+      "nm": {
+        "name": "nm",
+        "links": [],
+        "counties": {}
+      },
+      "ny": {
+        "name": "ny",
+        "links": [],
+        "counties": {}
+      },
+      "nc": {
+        "name": "nc",
+        "links": [],
+        "counties": {}
+      },
+      "nd": {
+        "name": "nd",
+        "links": [],
+        "counties": {}
+      },
+      "oh": {
+        "name": "oh",
+        "links": [],
+        "counties": {}
+      },
+      "ok": {
+        "name": "ok",
+        "links": [],
+        "counties": {}
+      },
+      "or": {
+        "name": "or",
+        "links": [],
+        "counties": {}
+      },
+      "pa": {
+        "name": "pa",
+        "links": [],
+        "counties": {}
+      },
+      "ri": {
+        "name": "ri",
+        "links": [],
+        "counties": {}
+      },
+      "sc": {
+        "name": "sc",
+        "links": [],
+        "counties": {}
+      },
+      "sd": {
+        "name": "sd",
+        "links": [],
+        "counties": {}
+      },
+      "tn": {
+        "name": "tn",
+        "links": [],
+        "counties": {}
+      },
+      "tx": {
+        "name": "tx",
+        "links": [],
+        "counties": {}
+      },
+      "ut": {
+        "name": "ut",
+        "links": [],
+        "counties": {}
+      },
+      "vt": {
+        "name": "vt",
+        "links": [],
+        "counties": {}
+      },
+      "va": {
+        "name": "va",
+        "links": [],
+        "counties": {}
+      },
+      "wa": {
+        "name": "wa",
+        "links": [],
+        "counties": {}
+      },
+      "wv": {
+        "name": "wv",
+        "links": [],
+        "counties": {}
+      },
+      "wi": {
+        "name": "wi",
+        "links": [],
+        "counties": {}
+      },
+      "wy": {
+        "name": "wy",
+        "links": [],
+        "counties": {}
       }
     },
     "links": [
