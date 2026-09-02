@@ -50,7 +50,12 @@
         "counties": {
           "alameda county": {
             "name": "Alameda County",
-            "links": [],
+            "links": [
+              {
+                "title": "Alameda County Permit Portal",
+                "url": "https://permit.acgov.org/BuildingPermitsResidential.aspx"
+              }
+            ],
             "cities": {}
           },
           "alpine county": {
