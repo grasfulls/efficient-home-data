@@ -12,7 +12,13 @@
             "url": "https://www.energy.gov/"
           }
         ],
-        "counties": {}
+        "counties": {
+          "autaugacounty baldwincounty barbourcounty bibbcounty blountcounty bullockcounty butlercounty calhouncounty chamberscounty cherokeecounty chiltoncounty choctawcounty clarkecounty claycounty cleburnecounty coffeecounty colecounty conecuhcounty coosacounty covingtoncounty crenshawcounty cullmancounty dalecounty dallascounty dekalbcounty elmorecounty escambiacounty etowahcounty fayettecounty franklincounty genevacounty greenecounty halecounty henrycounty houstoncounty jacksoncounty jeffersoncounty lamarcounty lauderdalecounty lawrencecounty leecounty limestonecounty lowndescounty maconcounty madisoncounty marengocounty marioncounty marshallcounty mobilecounty monroecounty montgomerycounty morgancounty perrycounty pickenscounty pikecounty randolphcounty russellcounty shelbycounty st.claircounty sumtercounty talladegacounty tallapoosacounty tuscaloosacounty walkercounty washingtoncounty wilcoxcounty winstoncounty": {
+            "name": "AutaugaCounty BaldwinCounty BarbourCounty BibbCounty BlountCounty BullockCounty ButlerCounty CalhounCounty ChambersCounty CherokeeCounty ChiltonCounty ChoctawCounty ClarkeCounty ClayCounty CleburneCounty CoffeeCounty Colecounty ConecuhCounty CoosaCounty CovingtonCounty CrenshawCounty CullmanCounty DaleCounty DallasCounty DeKalbCounty ElmoreCounty EscambiaCounty EtowahCounty FayetteCounty FranklinCounty GenevaCounty GreeneCounty HaleCounty HenryCounty HoustonCounty JacksonCounty JeffersonCounty LamarCounty LauderdaleCounty LawrenceCounty LeeCounty LimestoneCounty LowndesCounty MaconCounty MadisonCounty MarengoCounty MarionCounty MarshallCounty MobileCounty MonroeCounty MontgomeryCounty MorganCounty PerryCounty PickensCounty PikeCounty RandolphCounty RussellCounty ShelbyCounty St.ClairCounty SumterCounty TalladegaCounty TallapoosaCounty TuscaloosaCounty WalkerCounty WashingtonCounty WilcoxCounty WinstonCounty",
+            "links": [],
+            "cities": {}
+          }
+        }
       },
       "ak": {
         "name": "Alaska",
