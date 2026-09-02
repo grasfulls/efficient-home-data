@@ -52,6 +52,301 @@
             "name": "Alameda County",
             "links": [],
             "cities": {}
+          },
+          "alpine county": {
+            "name": "Alpine County",
+            "links": [],
+            "cities": {}
+          },
+          "amador county": {
+            "name": "Amador County",
+            "links": [],
+            "cities": {}
+          },
+          "butte county": {
+            "name": "Butte County",
+            "links": [],
+            "cities": {}
+          },
+          "calaveras county": {
+            "name": "Calaveras County",
+            "links": [],
+            "cities": {}
+          },
+          "colusa county": {
+            "name": "Colusa County",
+            "links": [],
+            "cities": {}
+          },
+          "contra costa county": {
+            "name": "Contra Costa County",
+            "links": [],
+            "cities": {}
+          },
+          "del norte county": {
+            "name": "Del Norte County",
+            "links": [],
+            "cities": {}
+          },
+          "el dorado county": {
+            "name": "El Dorado County",
+            "links": [],
+            "cities": {}
+          },
+          "fresno county": {
+            "name": "Fresno County",
+            "links": [],
+            "cities": {}
+          },
+          "glenn county": {
+            "name": "Glenn County",
+            "links": [],
+            "cities": {}
+          },
+          "humboldt county": {
+            "name": "Humboldt County",
+            "links": [],
+            "cities": {}
+          },
+          "imperial county": {
+            "name": "Imperial County",
+            "links": [],
+            "cities": {}
+          },
+          "inyo county": {
+            "name": "Inyo County",
+            "links": [],
+            "cities": {}
+          },
+          "kern county": {
+            "name": "Kern County",
+            "links": [],
+            "cities": {}
+          },
+          "kings county": {
+            "name": "Kings County",
+            "links": [],
+            "cities": {}
+          },
+          "lake county": {
+            "name": "Lake County",
+            "links": [],
+            "cities": {}
+          },
+          "lassen county": {
+            "name": "Lassen County",
+            "links": [],
+            "cities": {}
+          },
+          "los angeles county": {
+            "name": "Los Angeles County",
+            "links": [],
+            "cities": {}
+          },
+          "madera county": {
+            "name": "Madera County",
+            "links": [],
+            "cities": {}
+          },
+          "marin county": {
+            "name": "Marin County",
+            "links": [],
+            "cities": {}
+          },
+          "mariposa county": {
+            "name": "Mariposa County",
+            "links": [],
+            "cities": {}
+          },
+          "mendocino county": {
+            "name": "Mendocino County",
+            "links": [],
+            "cities": {}
+          },
+          "merced county": {
+            "name": "Merced County",
+            "links": [],
+            "cities": {}
+          },
+          "modoc county": {
+            "name": "Modoc County",
+            "links": [],
+            "cities": {}
+          },
+          "mono county": {
+            "name": "Mono County",
+            "links": [],
+            "cities": {}
+          },
+          "monterey county": {
+            "name": "Monterey County",
+            "links": [],
+            "cities": {}
+          },
+          "napa county": {
+            "name": "Napa County",
+            "links": [],
+            "cities": {}
+          },
+          "nevada county": {
+            "name": "Nevada County",
+            "links": [],
+            "cities": {}
+          },
+          "orange county": {
+            "name": "Orange County",
+            "links": [],
+            "cities": {}
+          },
+          "placer county": {
+            "name": "Placer County",
+            "links": [],
+            "cities": {
+              "newcastle": {
+                "name": "newcastle",
+                "links": [
+                  {
+                    "title": "Test Permit",
+                    "url": "https://www.placer.ca.gov/"
+                  }
+                ]
+              }
+            }
+          },
+          "plumas county": {
+            "name": "Plumas County",
+            "links": [],
+            "cities": {}
+          },
+          "riverside county": {
+            "name": "Riverside County",
+            "links": [],
+            "cities": {}
+          },
+          "sacramento county": {
+            "name": "Sacramento County",
+            "links": [],
+            "cities": {}
+          },
+          "san benito county": {
+            "name": "San Benito County",
+            "links": [],
+            "cities": {}
+          },
+          "san bernardino county": {
+            "name": "San Bernardino County",
+            "links": [],
+            "cities": {}
+          },
+          "san diego county": {
+            "name": "San Diego County",
+            "links": [],
+            "cities": {}
+          },
+          "san francisco county": {
+            "name": "San Francisco County",
+            "links": [],
+            "cities": {}
+          },
+          "san joaquin county": {
+            "name": "San Joaquin County",
+            "links": [],
+            "cities": {}
+          },
+          "san luis obispo county": {
+            "name": "San Luis Obispo County",
+            "links": [],
+            "cities": {}
+          },
+          "san mateo county": {
+            "name": "San Mateo County",
+            "links": [],
+            "cities": {}
+          },
+          "santa barbara county": {
+            "name": "Santa Barbara County",
+            "links": [],
+            "cities": {}
+          },
+          "santa clara county": {
+            "name": "Santa Clara County",
+            "links": [],
+            "cities": {}
+          },
+          "santa cruz county": {
+            "name": "Santa Cruz County",
+            "links": [],
+            "cities": {}
+          },
+          "shasta county": {
+            "name": "Shasta County",
+            "links": [],
+            "cities": {}
+          },
+          "sierra county": {
+            "name": "Sierra County",
+            "links": [],
+            "cities": {}
+          },
+          "siskiyou county": {
+            "name": "Siskiyou County",
+            "links": [],
+            "cities": {}
+          },
+          "solano county": {
+            "name": "Solano County",
+            "links": [],
+            "cities": {}
+          },
+          "sonoma county": {
+            "name": "Sonoma County",
+            "links": [],
+            "cities": {}
+          },
+          "stanislaus county": {
+            "name": "Stanislaus County",
+            "links": [],
+            "cities": {}
+          },
+          "sutter county": {
+            "name": "Sutter County",
+            "links": [],
+            "cities": {}
+          },
+          "tehama county": {
+            "name": "Tehama County",
+            "links": [],
+            "cities": {}
+          },
+          "trinity county": {
+            "name": "Trinity County",
+            "links": [],
+            "cities": {}
+          },
+          "tulare county": {
+            "name": "Tulare County",
+            "links": [],
+            "cities": {}
+          },
+          "tuolumne county": {
+            "name": "Tuolumne County",
+            "links": [],
+            "cities": {}
+          },
+          "ventura county": {
+            "name": "Ventura County",
+            "links": [],
+            "cities": {}
+          },
+          "yolo county": {
+            "name": "Yolo County",
+            "links": [],
+            "cities": {}
+          },
+          "yuba county": {
+            "name": "Yuba County",
+            "links": [],
+            "cities": {}
           }
         }
       },
