@@ -1048,13 +1048,18 @@
           },
           "plumas county": {
             "name": "Plumas County",
-            "links": [
-              {
-                "title": "Plumas County Building Department",
-                "url": "https://www.plumascounty.us/77/Building-Department"
+            "links": [],
+            "cities": {
+              "kingvale": {
+                "name": "Kingvale",
+                "links": [
+                  {
+                    "title": "Plumas County Building Department",
+                    "url": "https://www.plumascounty.us/77/Building-Department"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "riverside county": {
             "name": "Riverside County",
@@ -1068,13 +1073,18 @@
           },
           "sacramento county": {
             "name": "Sacramento County",
-            "links": [
-              {
-                "title": "Sacramento County Community Development - Building Permits & Inspection",
-                "url": "https://development.saccounty.gov/us/en/building-permits-inspection.html"
+            "links": [],
+            "cities": {
+              "meadow vista": {
+                "name": "Meadow Vista",
+                "links": [
+                  {
+                    "title": "Sacramento County Community Development - Building Permits & Inspection",
+                    "url": "https://development.saccounty.gov/us/en/building-permits-inspection.html"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "san benito county": {
             "name": "San Benito County",
@@ -1088,13 +1098,18 @@
           },
           "san bernardino county": {
             "name": "San Bernardino County",
-            "links": [
-              {
-                "title": "San Bernardino County Land Use Services - Building and Safety",
-                "url": "https://lus.sbcounty.gov/building-safety-home/"
+            "links": [],
+            "cities": {
+              "michigan bluff": {
+                "name": "Michigan Bluff",
+                "links": [
+                  {
+                    "title": "San Bernardino County Land Use Services - Building and Safety",
+                    "url": "https://lus.sbcounty.gov/building-safety-home/"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "san diego county": {
             "name": "San Diego County",
@@ -1108,13 +1123,18 @@
           },
           "san francisco county": {
             "name": "San Francisco County",
-            "links": [
-              {
-                "title": "San Francisco Department of Building Inspection",
-                "url": "https://www.sf.gov/departments--department-building-inspection"
+            "links": [],
+            "cities": {
+              "newcastle": {
+                "name": "Newcastle",
+                "links": [
+                  {
+                    "title": "San Francisco Department of Building Inspection",
+                    "url": "https://www.sf.gov/departments--department-building-inspection"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "san joaquin county": {
             "name": "San Joaquin County",
@@ -1128,13 +1148,18 @@
           },
           "san luis obispo county": {
             "name": "San Luis Obispo County",
-            "links": [
-              {
-                "title": "San Luis Obispo County Planning & Building Department",
-                "url": "https://www.slocounty.ca.gov/departments/planning-building"
+            "links": [],
+            "cities": {
+              "norden": {
+                "name": "Norden",
+                "links": [
+                  {
+                    "title": "San Luis Obispo County Planning & Building Department",
+                    "url": "https://www.slocounty.ca.gov/departments/planning-building"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "san mateo county": {
             "name": "San Mateo County",
@@ -1148,13 +1173,18 @@
           },
           "santa barbara county": {
             "name": "Santa Barbara County",
-            "links": [
-              {
-                "title": "Santa Barbara County Planning & Development - Building & Safety",
-                "url": "https://www.countyofsb.org/pl-directory-building-safety-division"
+            "links": [],
+            "cities": {
+              "olympic valley": {
+                "name": "Olympic Valley",
+                "links": [
+                  {
+                    "title": "Santa Barbara County Planning & Development - Building & Safety",
+                    "url": "https://www.countyofsb.org/pl-directory-building-safety-division"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "santa clara county": {
             "name": "Santa Clara County",
@@ -1168,13 +1198,18 @@
           },
           "santa cruz county": {
             "name": "Santa Cruz County",
-            "links": [
-              {
-                "title": "Santa Cruz County Community Development & Infrastructure",
-                "url": "https://cdi.santacruzcountyca.gov/AboutUs.aspx"
+            "links": [],
+            "cities": {
+              "ophir": {
+                "name": "Ophir",
+                "links": [
+                  {
+                    "title": "Santa Cruz County Community Development & Infrastructure",
+                    "url": "https://cdi.santacruzcountyca.gov/AboutUs.aspx"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "shasta county": {
             "name": "Shasta County",
@@ -1188,13 +1223,18 @@
           },
           "sierra county": {
             "name": "Sierra County",
-            "links": [
-              {
-                "title": "Sierra County Planning Department and Building Inspection Division",
-                "url": "https://www.sierracounty.ca.gov/345/Planning-and-Building"
+            "links": [],
+            "cities": {
+              "penryn": {
+                "name": "Penryn",
+                "links": [
+                  {
+                    "title": "Sierra County Planning Department and Building Inspection Division",
+                    "url": "https://www.sierracounty.ca.gov/345/Planning-and-Building"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "siskiyou county": {
             "name": "Siskiyou County",
@@ -1208,13 +1248,18 @@
           },
           "solano county": {
             "name": "Solano County",
-            "links": [
-              {
-                "title": "Solano County Resource Management - Building & Safety Services",
-                "url": "https://aca-prod.accela.com/SOLANOCO/Default.aspx"
+            "links": [],
+            "cities": {
+              "rainbow": {
+                "name": "Rainbow",
+                "links": [
+                  {
+                    "title": "Solano County Resource Management - Building & Safety Services",
+                    "url": "https://aca-prod.accela.com/SOLANOCO/Default.aspx"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "sonoma county": {
             "name": "Sonoma County",
@@ -1228,13 +1273,18 @@
           },
           "stanislaus county": {
             "name": "Stanislaus County",
-            "links": [
-              {
-                "title": "Stanislaus County Planning and Community Development - Building Permits Division",
-                "url": "https://www.stancounty.com/planning/bp/"
+            "links": [],
+            "cities": {
+              "sheridan": {
+                "name": "Sheridan",
+                "links": [
+                  {
+                    "title": "Stanislaus County Planning and Community Development - Building Permits Division",
+                    "url": "https://www.stancounty.com/planning/bp/"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "sutter county": {
             "name": "Sutter County",
@@ -1248,13 +1298,18 @@
           },
           "tehama county": {
             "name": "Tehama County",
-            "links": [
-              {
-                "title": "Tehama County Building and Safety Department",
-                "url": "https://www.tehama.gov/government/departments/building-and-safety/"
+            "links": [],
+            "cities": {
+              "soda springs": {
+                "name": "Soda Springs",
+                "links": [
+                  {
+                    "title": "Tehama County Building and Safety Department",
+                    "url": "https://www.tehama.gov/government/departments/building-and-safety/"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "trinity county": {
             "name": "Trinity County",
@@ -1268,13 +1323,18 @@
           },
           "tulare county": {
             "name": "Tulare County",
-            "links": [
-              {
-                "title": "Tulare County Resource Management Agency - Planning & Building",
-                "url": "https://tularecounty.ca.gov/rma/"
+            "links": [],
+            "cities": {
+              "sunnyside": {
+                "name": "Sunnyside",
+                "links": [
+                  {
+                    "title": "Tulare County Resource Management Agency - Planning & Building",
+                    "url": "https://tularecounty.ca.gov/rma/"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "tuolumne county": {
             "name": "Tuolumne County",
@@ -1288,13 +1348,18 @@
           },
           "ventura county": {
             "name": "Ventura County",
-            "links": [
-              {
-                "title": "Ventura County Resource Management Agency - Building and Safety",
-                "url": "https://rma.venturacounty.gov/divisions/building-and-safety/"
+            "links": [],
+            "cities": {
+              "tahoe city": {
+                "name": "Tahoe City",
+                "links": [
+                  {
+                    "title": "Ventura County Resource Management Agency - Building and Safety",
+                    "url": "https://rma.venturacounty.gov/divisions/building-and-safety/"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           },
           "yolo county": {
             "name": "Yolo County",
@@ -1308,13 +1373,18 @@
           },
           "yuba county": {
             "name": "Yuba County",
-            "links": [
-              {
-                "title": "Yuba County Community Development - Building Department",
-                "url": "https://www.yuba.gov/departments/community_development/building/index.php"
+            "links": [],
+            "cities": {
+              "tahoe vista": {
+                "name": "Tahoe Vista",
+                "links": [
+                  {
+                    "title": "Yuba County Community Development - Building Department",
+                    "url": "https://www.yuba.gov/departments/community_development/building/index.php"
+                  }
+                ]
               }
-            ],
-            "cities": {}
+            }
           }
         }
       },
