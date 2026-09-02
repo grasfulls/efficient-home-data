@@ -15,337 +15,672 @@
         "counties": {
           "autauga county": {
             "name": "Autauga County",
-            "links": [],
+            "links": [
+              {
+                "title": "Autauga County Engineering Department - Permits",
+                "url": "https://www.autaugaco.org/home/county-departments/engineering-department/property-development/permit-requirement-info/"
+              }
+            ],
             "cities": {}
           },
           "baldwin county": {
             "name": "Baldwin County",
-            "links": [],
+            "links": [
+              {
+                "title": "Baldwin County Building Department",
+                "url": "https://baldwincountyal.gov/departments/building-inspection"
+              }
+            ],
             "cities": {}
           },
           "barbour county": {
             "name": "Barbour County",
-            "links": [],
+            "links": [
+              {
+                "title": "Barbour County Commission",
+                "url": "https://www.barbourcountyal.gov/"
+              }
+            ],
             "cities": {}
           },
           "bibb county": {
             "name": "Bibb County",
-            "links": [],
+            "links": [
+              {
+                "title": "Bibb County Commission",
+                "url": "https://bibbal.com/"
+              }
+            ],
             "cities": {}
           },
           "blount county": {
             "name": "Blount County",
-            "links": [],
+            "links": [
+              {
+                "title": "Blount County Commission - Permits",
+                "url": "https://blountcountyal.gov/permits/"
+              }
+            ],
             "cities": {}
           },
           "bullock county": {
             "name": "Bullock County",
-            "links": [],
+            "links": [
+              {
+                "title": "Bullock County Commission",
+                "url": "https://bullockcountyal.com/"
+              }
+            ],
             "cities": {}
           },
           "butler county": {
             "name": "Butler County",
-            "links": [],
+            "links": [
+              {
+                "title": "Butler County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "calhoun county": {
             "name": "Calhoun County",
-            "links": [],
+            "links": [
+              {
+                "title": "Calhoun County Commission",
+                "url": "https://www.calhouncounty.org/"
+              }
+            ],
             "cities": {}
           },
           "chambers county": {
             "name": "Chambers County",
-            "links": [],
+            "links": [
+              {
+                "title": "Chambers County Commission",
+                "url": "https://chamberscountyal.gov/"
+              }
+            ],
             "cities": {}
           },
           "cherokeecounty": {
             "name": "CherokeeCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Cherokee County Commission",
+                "url": "https://cherokeecounty-al.gov/"
+              }
+            ],
             "cities": {}
           },
           "chiltoncounty": {
             "name": "ChiltonCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Chilton County Road & Engineering Department",
+                "url": "https://chiltoncounty.org/road-department/"
+              }
+            ],
             "cities": {}
           },
           "choctawcounty": {
             "name": "ChoctawCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Choctaw County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "clarkecounty": {
             "name": "ClarkeCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Clarke County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "claycounty": {
             "name": "ClayCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Clay County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "cleburnecounty": {
             "name": "CleburneCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Cleburne County Commission",
+                "url": "https://cleburnecounty.us/"
+              }
+            ],
             "cities": {}
           },
           "coffeecounty": {
             "name": "CoffeeCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Coffee County Commission",
+                "url": "https://www.coffeecounty.us/"
+              }
+            ],
             "cities": {}
           },
           "colecounty": {
             "name": "Colecounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Colbert County Commission",
+                "url": "https://colbertcounty.org/"
+              }
+            ],
             "cities": {}
           },
           "conecuhcounty": {
             "name": "ConecuhCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Conecuh County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "coosacounty": {
             "name": "CoosaCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Coosa County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "covingtoncounty": {
             "name": "CovingtonCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Covington County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "crenshawcounty": {
             "name": "CrenshawCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Crenshaw County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "cullmancounty": {
             "name": "CullmanCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Cullman County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "dalecounty": {
             "name": "DaleCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Dale County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "dallascounty": {
             "name": "DallasCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Dallas County Commission",
+                "url": "https://dallascounty-al.org/"
+              }
+            ],
             "cities": {}
           },
           "dekalbcounty": {
             "name": "DeKalbCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "DeKalb County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "elmorecounty": {
             "name": "ElmoreCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Elmore County Public Works - Permits",
+                "url": "https://www.elmoreco.org/public-works2bbcd223"
+              }
+            ],
             "cities": {}
           },
           "escambiacounty": {
             "name": "EscambiaCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Escambia County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "etowahcounty": {
             "name": "EtowahCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Etowah County Engineering Department",
+                "url": "https://etowahcounty.org/engineering/"
+              }
+            ],
             "cities": {}
           },
           "fayettecounty": {
             "name": "FayetteCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Fayette County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "franklincounty": {
             "name": "FranklinCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Franklin County Commission",
+                "url": "https://franklincountyal.org/"
+              }
+            ],
             "cities": {}
           },
           "genevacounty": {
             "name": "GenevaCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Geneva County Commission",
+                "url": "https://genevacountyal.gov/"
+              }
+            ],
             "cities": {}
           },
           "greenecounty": {
             "name": "GreeneCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Greene County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "halecounty": {
             "name": "HaleCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Hale County Commission",
+                "url": "https://halecountyal.com/"
+              }
+            ],
             "cities": {}
           },
           "henry county": {
             "name": "Henry County",
-            "links": [],
+            "links": [
+              {
+                "title": "Henry County Commission",
+                "url": "https://henrycountyal.com/"
+              }
+            ],
             "cities": {}
           },
           "houston county": {
             "name": "Houston County",
-            "links": [],
+            "links": [
+              {
+                "title": "Houston County Commission",
+                "url": "https://www.houstoncounty.org/"
+              }
+            ],
             "cities": {}
           },
           "jackson county": {
             "name": "Jackson County",
-            "links": [],
+            "links": [
+              {
+                "title": "Jackson County Commission",
+                "url": "https://jacksoncountyal.gov/"
+              }
+            ],
             "cities": {}
           },
           "jefferson county": {
             "name": "Jefferson County",
-            "links": [],
+            "links": [
+              {
+                "title": "Jefferson County Development Services - Building Permits",
+                "url": "https://www.jccal.org/700/Sewer-Building-or-Zoning-Permit"
+              }
+            ],
             "cities": {}
           },
           "lamar county": {
             "name": "Lamar County",
-            "links": [],
+            "links": [
+              {
+                "title": "Lamar County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "lauderdale county": {
             "name": "Lauderdale County",
-            "links": [],
+            "links": [
+              {
+                "title": "Lauderdale County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "lawrence county": {
             "name": "Lawrence County",
-            "links": [],
+            "links": [
+              {
+                "title": "Lawrence County Commission",
+                "url": "https://lawrencecountyal.org/"
+              }
+            ],
             "cities": {}
           },
-          "leecounty": {
-            "name": "LeeCounty",
-            "links": [],
+          "lee county": {
+            "name": "Lee County",
+            "links": [
+              {
+                "title": "Lee County Building Inspections",
+                "url": "https://www.leeco.us/departments/building_inspection/index.php"
+              }
+            ],
             "cities": {}
           },
           "limestonecounty": {
             "name": "LimestoneCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Limestone County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "lowndescounty": {
             "name": "LowndesCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Lowndes County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "maconcounty": {
             "name": "MaconCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Macon County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "madisoncounty": {
             "name": "MadisonCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Madison County Building and Fire Inspection",
+                "url": "https://www.madisoncountyal.gov/departments/inspection"
+              }
+            ],
             "cities": {}
           },
           "marengocounty": {
             "name": "MarengoCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Marengo County Commission",
+                "url": "https://marengocountyal.com/"
+              }
+            ],
             "cities": {}
           },
           "marioncounty": {
             "name": "MarionCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Marion County Commission",
+                "url": "https://marioncountyal.org/"
+              }
+            ],
             "cities": {}
           },
           "marshallcounty": {
             "name": "MarshallCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Marshall County Commission",
+                "url": "https://marshallco.org/"
+              }
+            ],
             "cities": {}
           },
           "mobilecounty": {
             "name": "MobileCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Mobile County Inspection Services Department",
+                "url": "https://www.mobilecountyal.gov/government/departments/inspection-services/"
+              }
+            ],
             "cities": {}
           },
           "monroecounty": {
             "name": "MonroeCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Monroe County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "montgomerycounty": {
             "name": "MontgomeryCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Montgomery County Building Permits",
+                "url": "https://www.mc-ala.org/business/building-permits"
+              }
+            ],
             "cities": {}
           },
           "morgancounty": {
             "name": "MorganCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Morgan County Commission",
+                "url": "https://morgancounty-al.gov/"
+              }
+            ],
             "cities": {}
           },
           "perrycounty": {
             "name": "PerryCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Perry County Commission",
+                "url": "https://perrycountyal.org/"
+              }
+            ],
             "cities": {}
           },
           "pickenscounty": {
             "name": "PickensCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Pickens County Commission",
+                "url": "https://pickenscountyal.org/"
+              }
+            ],
             "cities": {}
           },
           "pikecounty": {
             "name": "PikeCounty",
-            "links": [],
+            "links": [
+              {
+                "title": "Pike County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "randolph county": {
             "name": "Randolph County",
-            "links": [],
+            "links": [
+              {
+                "title": "Randolph County Commission",
+                "url": "https://randolphcountyal.gov/"
+              }
+            ],
             "cities": {}
           },
           "russell county": {
             "name": "Russell County",
-            "links": [],
+            "links": [
+              {
+                "title": "Russell County Commission",
+                "url": "https://russellcountyal.gov/"
+              }
+            ],
             "cities": {}
           },
           "shelby county": {
             "name": "Shelby County",
-            "links": [],
+            "links": [
+              {
+                "title": "Shelby County Development Services - Permits and Inspections",
+                "url": "https://www.shelbyal.com/236/Permits-and-Inspections"
+              }
+            ],
             "cities": {}
           },
           "st.clair county": {
             "name": "St.Clair County",
-            "links": [],
+            "links": [
+              {
+                "title": "St. Clair County Road & Engineering Department - Permits",
+                "url": "https://www.stclairco.com/169/County-Engineer-Road-Department"
+              }
+            ],
             "cities": {}
           },
           "sumter county": {
             "name": "Sumter County",
-            "links": [],
+            "links": [
+              {
+                "title": "Sumter County Commission",
+                "url": "https://sumtercountyal.com/"
+              }
+            ],
             "cities": {}
           },
           "talladega county": {
             "name": "Talladega County",
-            "links": [],
+            "links": [
+              {
+                "title": "Talladega County Highway Department - Permits & Zoning",
+                "url": "https://www.talladegacountyal.org/departments/highway/permits_and_zoning.php"
+              }
+            ],
             "cities": {}
           },
           "tallapoosa county": {
             "name": "Tallapoosa County",
-            "links": [],
+            "links": [
+              {
+                "title": "Tallapoosa County Commission",
+                "url": "https://tallaco.com/"
+              }
+            ],
             "cities": {}
           },
           "tuscaloosa county": {
             "name": "Tuscaloosa County",
-            "links": [],
+            "links": [
+              {
+                "title": "Tuscaloosa County Public Works",
+                "url": "https://www.tuscco.com/how-do-i/public-works/"
+              }
+            ],
             "cities": {}
           },
           "walker county": {
             "name": "Walker County",
-            "links": [],
+            "links": [
+              {
+                "title": "Walker County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "washington county": {
             "name": "Washington County",
-            "links": [],
+            "links": [
+              {
+                "title": "Washington County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "wilcox county": {
             "name": "Wilcox County",
-            "links": [],
+            "links": [
+              {
+                "title": "Wilcox County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "winston county": {
             "name": "Winston County",
-            "links": [],
+            "links": [
+              {
+                "title": "Winston County Commission",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           }
         }
