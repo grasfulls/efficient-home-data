@@ -32,5 +32,34 @@
         "links": [
             { "title": "US Department of Energy - Energy Saver", "url": "https://www.energy.gov/energysaver" }
         ]
+    },
+    "ca": {
+        "stateLabel": "Province / Territory:",
+        "countyLabel": "County / Region:",
+        "cityLabel": "City / Town:",
+        "states": {
+            "on": {
+                "name": "Ontario",
+                "links": [
+                    { "title": "Enbridge Gas Home Efficiency Rebates", "url": "https://www.enbridgegas.com/" }
+                ],
+                "counties": {
+                    "toronto_div": {
+                        "name": "Toronto Region",
+                        "cities": {
+                            "toronto": {
+                                "name": "Toronto",
+                                "links": [
+                                    { "title": "City of Toronto Building Permits & AHJ", "url": "https://www.toronto.ca/" }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "links": [
+            { "title": "Natural Resources Canada - Energy Efficiency", "url": "https://www.nrcan.gc.ca/" }
+        ]
     }
 }
