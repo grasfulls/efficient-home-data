@@ -50,6 +50,10 @@
           {
             "title": "California Energy Commission (CEC)",
             "url": "https://www.energy.gov/"
+          },
+          {
+            "title": "California Department of Forestry and Fire Protection (CAL FIRE)",
+            "url": "https://www.akenergyauthority.org/"
           }
         ],
         "counties": {
