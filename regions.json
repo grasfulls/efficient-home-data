@@ -200,18 +200,13 @@
           },
           "placer county": {
             "name": "Placer County",
-            "links": [],
-            "cities": {
-              "newcastle": {
-                "name": "newcastle",
-                "links": [
-                  {
-                    "title": "Test Permit",
-                    "url": "https://www.placer.ca.gov/"
-                  }
-                ]
+            "links": [
+              {
+                "title": "Test Permit",
+                "url": "https://www.placer.ca.gov/"
               }
-            }
+            ],
+            "cities": {}
           },
           "plumas county": {
             "name": "Plumas County",
