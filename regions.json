@@ -282,7 +282,73 @@
     "stateLabel": "Province / Territory:",
     "countyLabel": "County / Region:",
     "cityLabel": "City / Town:",
-    "states": {},
+    "states": {
+      "ab": {
+        "name": "Alberta",
+        "links": [],
+        "counties": {}
+      },
+      "bc": {
+        "name": "British Columbia",
+        "links": [],
+        "counties": {}
+      },
+      "mb": {
+        "name": "Manitoba",
+        "links": [],
+        "counties": {}
+      },
+      "nb": {
+        "name": "New Brunswick",
+        "links": [],
+        "counties": {}
+      },
+      "nl": {
+        "name": "Newfoundland and Labrador",
+        "links": [],
+        "counties": {}
+      },
+      "nt": {
+        "name": "Northwest Territories",
+        "links": [],
+        "counties": {}
+      },
+      "ns": {
+        "name": "Nova Scotia",
+        "links": [],
+        "counties": {}
+      },
+      "nu": {
+        "name": "Nunavut",
+        "links": [],
+        "counties": {}
+      },
+      "on": {
+        "name": "Ontario",
+        "links": [],
+        "counties": {}
+      },
+      "pe": {
+        "name": "Prince Edward Island",
+        "links": [],
+        "counties": {}
+      },
+      "qc": {
+        "name": "Quebec",
+        "links": [],
+        "counties": {}
+      },
+      "sk": {
+        "name": "Saskatchewan",
+        "links": [],
+        "counties": {}
+      },
+      "yt": {
+        "name": "Yukon",
+        "links": [],
+        "counties": {}
+      }
+    },
     "links": [
       {
         "title": "Natural Resources Canada - Energy Efficiency",
