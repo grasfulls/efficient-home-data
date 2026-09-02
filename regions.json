@@ -48,508 +48,14 @@
         "name": "Colorado",
         "links": [
           {
-            "title": "| Colorado Energy Office",
-            "url": "https://energyoffice.colorado.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "ct": {
-        "name": "Connecticut",
-        "links": [],
-        "counties": {
-          "san luis obispo county": {
-            "name": "San Luis Obispo County",
-            "links": [
-              {
-                "title": "| Connecticut DEEP Energy Efficiency",
-                "url": "https://portal.ct.gov/DEEP"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "de": {
-        "name": "Delaware",
-        "links": [
-          {
-            "title": "| Delaware Division of Climate, Coastal & Energy",
-            "url": "https://de.gov/energy"
-          }
-        ],
-        "counties": {}
-      },
-      "fl": {
-        "name": "Florida",
-        "links": [],
-        "counties": {
-          "san mateo county": {
-            "name": "San Mateo County",
-            "links": [
-              {
-                "title": "| Florida Office of Energy",
-                "url": "https://www.freshfromflorida.com/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "ga": {
-        "name": "Georgia",
-        "links": [
-          {
-            "title": "| Georgia Environmental Finance Authority",
-            "url": "https://gefa.georgia.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "hi": {
-        "name": "Hawaii",
-        "links": [],
-        "counties": {
-          "santa barbara county": {
-            "name": "Santa Barbara County",
-            "links": [
-              {
-                "title": "| Hawaii State Energy Office",
-                "url": "https://energy.hawaii.gov/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "id": {
-        "name": "Idaho",
-        "links": [
-          {
-            "title": "| Idaho Office of Energy and Mineral Resources",
-            "url": "https://oemr.idaho.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "il": {
-        "name": "Illinois",
-        "links": [],
-        "counties": {
-          "santa clara county": {
-            "name": "Santa Clara County",
-            "links": [
-              {
-                "title": "| Illinois EPA - Office of Energy",
-                "url": "https://epa.illinois.gov/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "in": {
-        "name": "Indiana",
-        "links": [
-          {
-            "title": "| Indiana Office of Energy Development",
-            "url": "https://www.in.gov/oed/"
-          }
-        ],
-        "counties": {}
-      },
-      "ia": {
-        "name": "Iowa",
-        "links": [],
-        "counties": {
-          "santa cruz county": {
-            "name": "Santa Cruz County",
-            "links": [
-              {
-                "title": "| Iowa Economic Development Authority - Energy",
-                "url": "https://www.iowaeconomicdevelopment.com/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "ks": {
-        "name": "Kansas",
-        "links": [
-          {
-            "title": "| Kansas Corporation Commission - Energy Office",
-            "url": "https://kcc.ks.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "ky": {
-        "name": "Kentucky",
-        "links": [],
-        "counties": {
-          "shasta county": {
-            "name": "Shasta County",
-            "links": [
-              {
-                "title": "| Kentucky Energy and Environment Cabinet",
-                "url": "https://eec.ky.gov/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "la": {
-        "name": "Louisiana",
-        "links": [
-          {
-            "title": "| Louisiana Department of Natural Resources",
-            "url": "https://www.dnr.louisiana.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "me": {
-        "name": "Maine",
-        "links": [],
-        "counties": {
-          "sierra county": {
-            "name": "Sierra County",
-            "links": [
-              {
-                "title": "| Efficiency Maine",
-                "url": "https://www.efficiencymaine.com/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "md": {
-        "name": "Maryland",
-        "links": [
-          {
-            "title": "| Maryland Energy Administration",
-            "url": "https://energy.maryland.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "ma": {
-        "name": "Massachusetts",
-        "links": [],
-        "counties": {
-          "siskiyou county": {
-            "name": "Siskiyou County",
-            "links": [
-              {
-                "title": "| Massachusetts Department of Energy Resources",
-                "url": "https://www.mass.gov/orgs/department-of-energy-resources"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "mi": {
-        "name": "Michigan",
-        "links": [
-          {
-            "title": "| Michigan Energy Office",
-            "url": "https://www.michigan.gov/lean/energy"
-          }
-        ],
-        "counties": {}
-      },
-      "mn": {
-        "name": "Minnesota",
-        "links": [],
-        "counties": {
-          "solano county": {
-            "name": "Solano County",
-            "links": [
-              {
-                "title": "| Minnesota Department of Commerce - Energy Division",
-                "url": "https://mn.gov/commerce/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "ms": {
-        "name": "Mississippi",
-        "links": [
-          {
-            "title": "| Mississippi Development Authority - Energy Division",
-            "url": "https://mississippi.org/"
-          }
-        ],
-        "counties": {}
-      },
-      "mo": {
-        "name": "Missouri",
-        "links": [],
-        "counties": {
-          "sonoma county": {
-            "name": "Sonoma County",
-            "links": [
-              {
-                "title": "| Missouri Division of Energy",
-                "url": "https://dnr.mo.gov/energy/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "mt": {
-        "name": "Montana",
-        "links": [
-          {
-            "title": "| Montana Department of Environmental Quality",
-            "url": "https://deq.mt.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "ne": {
-        "name": "Nebraska",
-        "links": [],
-        "counties": {
-          "stanislaus county": {
-            "name": "Stanislaus County",
-            "links": [
-              {
-                "title": "| Nebraska Energy Office",
-                "url": "https://neo.ne.gov/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "nv": {
-        "name": "Nevada",
-        "links": [
-          {
-            "title": "| Nevada Governor's Office of Energy",
-            "url": "https://energy.nv.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "nh": {
-        "name": "New Hampshire",
-        "links": [],
-        "counties": {
-          "sutter county": {
-            "name": "Sutter County",
-            "links": [
-              {
-                "title": "| New Hampshire Office of Strategic Initiatives",
-                "url": "https://www.nh.gov/osi/energy/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "nj": {
-        "name": "New Jersey",
-        "links": [
-          {
-            "title": "| New Jersey Board of Public Utilities",
-            "url": "https://www.nj.gov/bpu/"
-          }
-        ],
-        "counties": {}
-      },
-      "nm": {
-        "name": "New Mexico",
-        "links": [],
-        "counties": {
-          "tehama county": {
-            "name": "Tehama County",
-            "links": [
-              {
-                "title": "| New Mexico Energy, Minerals and Natural Resources Dept",
-                "url": "https://www.emnrd.nm.gov/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "ny": {
-        "name": "New York",
-        "links": [
-          {
-            "title": "| NYSERDA (New York State Energy Research and Development Authority)",
-            "url": "https://www.nyserda.ny.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "nc": {
-        "name": "North Carolina",
-        "links": [],
-        "counties": {
-          "trinity county": {
-            "name": "Trinity County",
-            "links": [
-              {
-                "title": "| North Carolina Department of Environmental Quality",
-                "url": "https://deq.nc.gov/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "nd": {
-        "name": "North Dakota",
-        "links": [
-          {
-            "title": "| North Dakota Division of Community Services",
-            "url": "https://www.nd.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "oh": {
-        "name": "Ohio",
-        "links": [],
-        "counties": {
-          "tulare county": {
-            "name": "Tulare County",
-            "links": [
-              {
-                "title": "| Ohio Development Services Agency - Energy Office",
-                "url": "https://development.ohio.gov/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "ok": {
-        "name": "Oklahoma",
-        "links": [
-          {
-            "title": "| Oklahoma Department of Commerce - Energy",
-            "url": "https://www.okcommerce.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "or": {
-        "name": "Oregon",
-        "links": [],
-        "counties": {
-          "tuolumne county": {
-            "name": "Tuolumne County",
-            "links": [
-              {
-                "title": "| Oregon Department of Energy",
-                "url": "https://www.oregon.gov/energy/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "pa": {
-        "name": "Pennsylvania",
-        "links": [
-          {
-            "title": "| Pennsylvania Department of Environmental Protection",
-            "url": "https://www.dep.pa.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "ri": {
-        "name": "Rhode Island",
-        "links": [],
-        "counties": {
-          "ventura county": {
-            "name": "Ventura County",
-            "links": [
-              {
-                "title": "| Rhode Island Office of Energy Resources",
-                "url": "https://energy.ri.gov/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "sc": {
-        "name": "South Carolina",
-        "links": [
-          {
-            "title": "| South Carolina Office of Regulatory Staff - Energy Office",
-            "url": "https://www.regulatorystaff.sc.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "sd": {
-        "name": "South Dakota",
-        "links": [],
-        "counties": {
-          "yolo county": {
-            "name": "Yolo County",
-            "links": [
-              {
-                "title": "| South Dakota Governor's Office of Economic Development",
-                "url": "https://sdgoed.com/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "tn": {
-        "name": "Tennessee",
-        "links": [
-          {
-            "title": "| Tennessee Department of Environment and Conservation",
-            "url": "https://www.tn.gov/tdec.html"
-          }
-        ],
-        "counties": {}
-      },
-      "tx": {
-        "name": "Texas",
-        "links": [],
-        "counties": {
-          "yuba county": {
-            "name": "Yuba County",
-            "links": [
-              {
-                "title": "| State Energy Conservation Office (SECO) Texas",
-                "url": "https://comptroller.texas.gov/programs/seco/"
-              }
-            ],
-            "cities": {}
-          }
-        }
-      },
-      "ut": {
-        "name": "Utah",
-        "links": [
-          {
             "title": "| Utah Office of Energy Development",
             "url": "https://energy.utah.gov/"
           }
         ],
         "counties": {}
       },
-      "vt": {
-        "name": "Vermont",
+      "ct": {
+        "name": "Connecticut",
         "links": [
           {
             "title": "| Efficiency Vermont",
@@ -558,8 +64,8 @@
         ],
         "counties": {}
       },
-      "va": {
-        "name": "Virginia",
+      "de": {
+        "name": "Delaware",
         "links": [
           {
             "title": "| Virginia Department of Energy",
@@ -568,18 +74,8 @@
         ],
         "counties": {}
       },
-      "wv": {
-        "name": "West Virginia",
-        "links": [
-          {
-            "title": "| West Virginia Division of Energy",
-            "url": "https://energy.wv.gov/"
-          }
-        ],
-        "counties": {}
-      },
-      "wa": {
-        "name": "Western Australia",
+      "fl": {
+        "name": "Florida",
         "links": [
           {
             "title": "| Washington State Department of Commerce - Energy",
@@ -588,8 +84,18 @@
         ],
         "counties": {}
       },
-      "wi": {
-        "name": "Wisconsin",
+      "ga": {
+        "name": "Georgia",
+        "links": [
+          {
+            "title": "| West Virginia Division of Energy",
+            "url": "https://energy.wv.gov/"
+          }
+        ],
+        "counties": {}
+      },
+      "hi": {
+        "name": "Hawaii",
         "links": [
           {
             "title": "| Focus on Energy Wisconsin",
@@ -598,14 +104,309 @@
         ],
         "counties": {}
       },
-      "wy": {
-        "name": "Wyoming",
+      "id": {
+        "name": "Idaho",
         "links": [
           {
             "title": "| Wyoming Energy Authority",
             "url": "https://wyoenergy.org/"
           }
         ],
+        "counties": {}
+      },
+      "il": {
+        "name": "Illinois",
+        "links": [
+          {
+            "title": "| Alberta Energy Efficiency",
+            "url": "https://www.alberta.ca/energy-efficiency"
+          }
+        ],
+        "counties": {}
+      },
+      "in": {
+        "name": "Indiana",
+        "links": [
+          {
+            "title": "| CleanBC (British Columbia)",
+            "url": "https://www2.gov.bc.ca/gov/content/environment/climate-change/cleanbc"
+          }
+        ],
+        "counties": {}
+      },
+      "ia": {
+        "name": "Iowa",
+        "links": [
+          {
+            "title": "| Efficiency Manitoba",
+            "url": "https://efficiencymb.ca/"
+          }
+        ],
+        "counties": {}
+      },
+      "ks": {
+        "name": "Kansas",
+        "links": [
+          {
+            "title": "| New Brunswick Energy Efficiency",
+            "url": "https://www2.gnb.ca/content/gnb/en/departments/ercc/energy/content/efficiency.html"
+          }
+        ],
+        "counties": {}
+      },
+      "ky": {
+        "name": "Kentucky",
+        "links": [
+          {
+            "title": "| Newfoundland and Labrador Energy Efficiency",
+            "url": "https://www.gov.nl.ca/iet/energy/"
+          }
+        ],
+        "counties": {}
+      },
+      "la": {
+        "name": "Louisiana",
+        "links": [
+          {
+            "title": "| Efficiency Nova Scotia",
+            "url": "https://www.efficiencyns.ca/"
+          }
+        ],
+        "counties": {}
+      },
+      "me": {
+        "name": "Maine",
+        "links": [
+          {
+            "title": "| Northwest Territories Energy Division",
+            "url": "https://www.gov.nt.ca/en/services/energy"
+          }
+        ],
+        "counties": {}
+      },
+      "md": {
+        "name": "Maryland",
+        "links": [
+          {
+            "title": "| Nunavut Energy Program",
+            "url": "https://www.gov.nu.ca/"
+          }
+        ],
+        "counties": {}
+      },
+      "ma": {
+        "name": "Massachusetts",
+        "links": [
+          {
+            "title": "| Save on Energy (Ontario)",
+            "url": "https://saveonenergy.ca/"
+          }
+        ],
+        "counties": {}
+      },
+      "mi": {
+        "name": "Michigan",
+        "links": [
+          {
+            "title": "| Efficiency PEI (Prince Edward Island)",
+            "url": "https://www.princeedwardisland.ca/en/topic/efficiency-pei"
+          }
+        ],
+        "counties": {}
+      },
+      "mn": {
+        "name": "Minnesota",
+        "links": [
+          {
+            "title": "| Transition énergétique Québec",
+            "url": "https://transitionenergetique.gouv.qc.ca/"
+          }
+        ],
+        "counties": {}
+      },
+      "ms": {
+        "name": "Mississippi",
+        "links": [
+          {
+            "title": "| Saskatchewan Energy Conservation",
+            "url": "https://www.saskatchewan.ca/residents/environment-public-health-and-safety/energy-saving"
+          }
+        ],
+        "counties": {}
+      },
+      "mo": {
+        "name": "Missouri",
+        "links": [
+          {
+            "title": "| Yukon Energy Corporation",
+            "url": "https://www.yukonenergy.ca/"
+          }
+        ],
+        "counties": {}
+      },
+      "mt": {
+        "name": "Montana",
+        "links": [
+          {
+            "title": "| ACT Government - Energy Efficiency",
+            "url": "https://www.act.gov.au/"
+          }
+        ],
+        "counties": {}
+      },
+      "ne": {
+        "name": "Nebraska",
+        "links": [
+          {
+            "title": "| EnergyNSW (New South Wales)",
+            "url": "https://www.energy.nsw.gov.au/"
+          }
+        ],
+        "counties": {}
+      },
+      "nv": {
+        "name": "Nevada",
+        "links": [
+          {
+            "title": "| Northern Territory Energy Solutions",
+            "url": "https://nt.gov.au/"
+          }
+        ],
+        "counties": {}
+      },
+      "nh": {
+        "name": "New Hampshire",
+        "links": [
+          {
+            "title": "| Queensland Government - Energy and Water",
+            "url": "https://www.qld.gov.au/housing/buying-owning-home/energy-water"
+          }
+        ],
+        "counties": {}
+      },
+      "nj": {
+        "name": "New Jersey",
+        "links": [
+          {
+            "title": "| SA Government - Energy & Mining (South Australia)",
+            "url": "https://www.energymining.sa.gov.au/"
+          }
+        ],
+        "counties": {}
+      },
+      "nm": {
+        "name": "New Mexico",
+        "links": [
+          {
+            "title": "| Energy Tasmania",
+            "url": "https://www.rewpower.tas.gov.au/"
+          }
+        ],
+        "counties": {}
+      },
+      "ny": {
+        "name": "New York",
+        "links": [
+          {
+            "title": "| Solar Victoria / Energy Victoria",
+            "url": "https://www.solar.vic.gov.au/"
+          }
+        ],
+        "counties": {}
+      },
+      "nc": {
+        "name": "North Carolina",
+        "links": [
+          {
+            "title": "| EnergyWA (Western Australia)",
+            "url": "https://www.wa.gov.au/"
+          }
+        ],
+        "counties": {}
+      },
+      "nd": {
+        "name": "North Dakota",
+        "links": [],
+        "counties": {}
+      },
+      "oh": {
+        "name": "Ohio",
+        "links": [],
+        "counties": {}
+      },
+      "ok": {
+        "name": "Oklahoma",
+        "links": [],
+        "counties": {}
+      },
+      "or": {
+        "name": "Oregon",
+        "links": [],
+        "counties": {}
+      },
+      "pa": {
+        "name": "Pennsylvania",
+        "links": [],
+        "counties": {}
+      },
+      "ri": {
+        "name": "Rhode Island",
+        "links": [],
+        "counties": {}
+      },
+      "sc": {
+        "name": "South Carolina",
+        "links": [],
+        "counties": {}
+      },
+      "sd": {
+        "name": "South Dakota",
+        "links": [],
+        "counties": {}
+      },
+      "tn": {
+        "name": "Tennessee",
+        "links": [],
+        "counties": {}
+      },
+      "tx": {
+        "name": "Texas",
+        "links": [],
+        "counties": {}
+      },
+      "ut": {
+        "name": "Utah",
+        "links": [],
+        "counties": {}
+      },
+      "vt": {
+        "name": "Vermont",
+        "links": [],
+        "counties": {}
+      },
+      "va": {
+        "name": "Virginia",
+        "links": [],
+        "counties": {}
+      },
+      "wv": {
+        "name": "West Virginia",
+        "links": [],
+        "counties": {}
+      },
+      "wa": {
+        "name": "Western Australia",
+        "links": [],
+        "counties": {}
+      },
+      "wi": {
+        "name": "Wisconsin",
+        "links": [],
+        "counties": {}
+      },
+      "wy": {
+        "name": "Wyoming",
+        "links": [],
         "counties": {}
       }
     },
@@ -623,132 +424,67 @@
     "states": {
       "ab": {
         "name": "Alberta",
-        "links": [
-          {
-            "title": "| Alberta Energy Efficiency",
-            "url": "https://www.alberta.ca/energy-efficiency"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "bc": {
         "name": "British Columbia",
-        "links": [
-          {
-            "title": "| CleanBC (British Columbia)",
-            "url": "https://www2.gov.bc.ca/gov/content/environment/climate-change/cleanbc"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "mb": {
         "name": "Manitoba",
-        "links": [
-          {
-            "title": "| Efficiency Manitoba",
-            "url": "https://efficiencymb.ca/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "nb": {
         "name": "New Brunswick",
-        "links": [
-          {
-            "title": "| New Brunswick Energy Efficiency",
-            "url": "https://www2.gnb.ca/content/gnb/en/departments/ercc/energy/content/efficiency.html"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "nl": {
         "name": "Newfoundland and Labrador",
-        "links": [
-          {
-            "title": "| Newfoundland and Labrador Energy Efficiency",
-            "url": "https://www.gov.nl.ca/iet/energy/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "nt": {
         "name": "Northwest Territories",
-        "links": [
-          {
-            "title": "| Northwest Territories Energy Division",
-            "url": "https://www.gov.nt.ca/en/services/energy"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "ns": {
         "name": "Nova Scotia",
-        "links": [
-          {
-            "title": "| Efficiency Nova Scotia",
-            "url": "https://www.efficiencyns.ca/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "nu": {
         "name": "Nunavut",
-        "links": [
-          {
-            "title": "| Nunavut Energy Program",
-            "url": "https://www.gov.nu.ca/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "on": {
         "name": "Ontario",
-        "links": [
-          {
-            "title": "| Save on Energy (Ontario)",
-            "url": "https://saveonenergy.ca/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "pe": {
         "name": "Prince Edward Island",
-        "links": [
-          {
-            "title": "| Efficiency PEI (Prince Edward Island)",
-            "url": "https://www.princeedwardisland.ca/en/topic/efficiency-pei"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "qc": {
         "name": "Quebec",
-        "links": [
-          {
-            "title": "| Transition énergétique Québec",
-            "url": "https://transitionenergetique.gouv.qc.ca/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "sk": {
         "name": "Saskatchewan",
-        "links": [
-          {
-            "title": "| Saskatchewan Energy Conservation",
-            "url": "https://www.saskatchewan.ca/residents/environment-public-health-and-safety/energy-saving"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "yt": {
         "name": "Yukon",
-        "links": [
-          {
-            "title": "| Yukon Energy Corporation",
-            "url": "https://www.yukonenergy.ca/"
-          }
-        ],
+        "links": [],
         "counties": {}
       }
     },
@@ -766,82 +502,42 @@
     "states": {
       "act": {
         "name": "Australian Capital Territory",
-        "links": [
-          {
-            "title": "| ACT Government - Energy Efficiency",
-            "url": "https://www.act.gov.au/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "nsw": {
         "name": "New South Wales",
-        "links": [
-          {
-            "title": "| EnergyNSW (New South Wales)",
-            "url": "https://www.energy.nsw.gov.au/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "nt": {
         "name": "Northwest Territories",
-        "links": [
-          {
-            "title": "| Northern Territory Energy Solutions",
-            "url": "https://nt.gov.au/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "qld": {
         "name": "Queensland",
-        "links": [
-          {
-            "title": "| Queensland Government - Energy and Water",
-            "url": "https://www.qld.gov.au/housing/buying-owning-home/energy-water"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "sa": {
         "name": "South Australia",
-        "links": [
-          {
-            "title": "| SA Government - Energy & Mining (South Australia)",
-            "url": "https://www.energymining.sa.gov.au/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "tas": {
         "name": "Tasmania",
-        "links": [
-          {
-            "title": "| Energy Tasmania",
-            "url": "https://www.rewpower.tas.gov.au/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "vic": {
         "name": "Victoria",
-        "links": [
-          {
-            "title": "| Solar Victoria / Energy Victoria",
-            "url": "https://www.solar.vic.gov.au/"
-          }
-        ],
+        "links": [],
         "counties": {}
       },
       "wa": {
         "name": "Western Australia",
-        "links": [
-          {
-            "title": "| EnergyWA (Western Australia)",
-            "url": "https://www.wa.gov.au/"
-          }
-        ],
+        "links": [],
         "counties": {}
       }
     },
