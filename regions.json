@@ -51,17 +51,7 @@
           "placer": {
             "name": "placer",
             "links": [],
-            "cities": {
-              "newcastle": {
-                "name": "newcastle",
-                "links": [
-                  {
-                    "title": "Test Permit",
-                    "url": "https://www.placer.ca.gov/"
-                  }
-                ]
-              }
-            }
+            "cities": {}
           }
         }
       },
