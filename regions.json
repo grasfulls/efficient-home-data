@@ -13,13 +13,13 @@
           }
         ],
         "counties": {
-          "autaugacounty": {
-            "name": "AutaugaCounty",
+          "autauga county": {
+            "name": "Autauga County",
             "links": [],
             "cities": {}
           },
-          "baldwincounty": {
-            "name": "BaldwinCounty",
+          "baldwin county": {
+            "name": "Baldwin County",
             "links": [],
             "cities": {}
           },
