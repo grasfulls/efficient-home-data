@@ -80,137 +80,272 @@
           },
           "butte county": {
             "name": "Butte County",
-            "links": [],
+            "links": [
+              {
+                "title": "Butte County Development Services - Building Division",
+                "url": "https://www.buttecounty.net/252/Building"
+              }
+            ],
             "cities": {}
           },
           "calaveras county": {
             "name": "Calaveras County",
-            "links": [],
+            "links": [
+              {
+                "title": "Calaveras County Building Department",
+                "url": "https://building.calaverasgov.us/"
+              }
+            ],
             "cities": {}
           },
           "colusa county": {
             "name": "Colusa County",
-            "links": [],
+            "links": [
+              {
+                "title": "Colusa County Community Development Department - Building",
+                "url": "https://countyofcolusaca.gov/133/Building"
+              }
+            ],
             "cities": {}
           },
           "contra costa county": {
             "name": "Contra Costa County",
-            "links": [],
+            "links": [
+              {
+                "title": "Contra Costa County Conservation and Development - ePermits",
+                "url": "https://www.contracosta.ca.gov/9972/Permit-Portal"
+              }
+            ],
             "cities": {}
           },
           "del norte county": {
             "name": "Del Norte County",
-            "links": [],
+            "links": [
+              {
+                "title": "Del Norte County Building Inspection Division",
+                "url": "https://www.co.del-norte.ca.us/departments/buildinginspection"
+              }
+            ],
             "cities": {}
           },
           "el dorado county": {
             "name": "El Dorado County",
-            "links": [],
+            "links": [
+              {
+                "title": "El Dorado County Planning and Building - Building Division",
+                "url": "https://www.eldoradocounty.ca.gov/Land-Use/Planning-and-Building/Building-Division"
+              }
+            ],
             "cities": {}
           },
           "fresno county": {
             "name": "Fresno County",
-            "links": [],
+            "links": [
+              {
+                "title": "Fresno County Public Works and Planning - Building & Safety",
+                "url": "https://www.fresnocountyca.gov/Departments/Public-Works-and-Planning/divisions-of-public-works-and-planning/development-services-division/building-safety"
+              }
+            ],
             "cities": {}
           },
           "glenn county": {
             "name": "Glenn County",
-            "links": [],
+            "links": [
+              {
+                "title": "Glenn County Building Department",
+                "url": "https://www.countyofglenn.net/government/departments/planning-community-development-services/building"
+              }
+            ],
             "cities": {}
           },
           "humboldt county": {
             "name": "Humboldt County",
-            "links": [],
+            "links": [
+              {
+                "title": "Humboldt County Planning & Building - Building Inspection",
+                "url": "https://humboldtgov.org/153/Building-Inspection"
+              }
+            ],
             "cities": {}
           },
           "imperial county": {
             "name": "Imperial County",
-            "links": [],
+            "links": [
+              {
+                "title": "Imperial County Planning & Development Services - Building",
+                "url": "https://www.icpds.com/building"
+              }
+            ],
             "cities": {}
           },
           "inyo county": {
             "name": "Inyo County",
-            "links": [],
+            "links": [
+              {
+                "title": "Inyo County Building and Safety Department",
+                "url": "https://www.inyocounty.us/services/public-works/building-and-safety"
+              }
+            ],
             "cities": {}
           },
           "kern county": {
             "name": "Kern County",
-            "links": [],
+            "links": [
+              {
+                "title": "Kern County Public Works - Building Inspection",
+                "url": "https://www.kernpublicworks.com/services/development/building-inspection"
+              }
+            ],
             "cities": {}
           },
           "kings county": {
             "name": "Kings County",
-            "links": [],
+            "links": [
+              {
+                "title": "Kings County Community Development Agency - Building Division",
+                "url": "https://www.countyofkingsca.gov/departments/community-development-agency"
+              }
+            ],
             "cities": {}
           },
           "lake county": {
             "name": "Lake County",
-            "links": [],
+            "links": [
+              {
+                "title": "Lake County Community Development - Building Safety Division",
+                "url": "https://www.lakecountyca.gov/444/Building-Safety"
+              }
+            ],
             "cities": {}
           },
           "lassen county": {
             "name": "Lassen County",
-            "links": [],
+            "links": [
+              {
+                "title": "Lassen County Planning & Building Services - Building Division",
+                "url": "https://www.lassencounty.gov/336/Planning-Building-Services"
+              }
+            ],
             "cities": {}
           },
           "los angeles county": {
             "name": "Los Angeles County",
-            "links": [],
+            "links": [
+              {
+                "title": "Los Angeles County Public Works - Building and Safety Division",
+                "url": "https://dpw.lacounty.gov/building-and-safety/"
+              }
+            ],
             "cities": {}
           },
           "madera county": {
             "name": "Madera County",
-            "links": [],
+            "links": [
+              {
+                "title": "Madera County Community and Economic Development - Building Division",
+                "url": "https://www.maderacounty.com/government/community-economic-development-department/divisions/building-division"
+              }
+            ],
             "cities": {}
           },
           "marin county": {
             "name": "Marin County",
-            "links": [],
+            "links": [
+              {
+                "title": "Marin County Community Development Agency - Building and Safety",
+                "url": "https://www.marincounty.gov/departments/cda/building-and-safety"
+              }
+            ],
             "cities": {}
           },
           "mariposa county": {
             "name": "Mariposa County",
-            "links": [],
+            "links": [
+              {
+                "title": "Mariposa County Building Department",
+                "url": "https://www.mariposacounty.gov/67/Building"
+              }
+            ],
             "cities": {}
           },
           "mendocino county": {
             "name": "Mendocino County",
-            "links": [],
+            "links": [
+              {
+                "title": "Mendocino County Planning & Building Services",
+                "url": "https://www.mendocinocounty.gov/government/planning-building-services"
+              }
+            ],
             "cities": {}
           },
           "merced county": {
             "name": "Merced County",
-            "links": [],
+            "links": [
+              {
+                "title": "Merced County Community and Economic Development - Building & Safety",
+                "url": "https://permits.countyofmerced.com/New-Application/Building-Department"
+              }
+            ],
             "cities": {}
           },
           "modoc county": {
             "name": "Modoc County",
-            "links": [],
+            "links": [
+              {
+                "title": "Modoc County Building and Safety Department",
+                "url": "https://www.countyofmodoc.gov/534/Building-Safety"
+              }
+            ],
             "cities": {}
           },
           "mono county": {
             "name": "Mono County",
-            "links": [],
+            "links": [
+              {
+                "title": "Mono County Community Development Department - Building",
+                "url": "[link removed]"
+              }
+            ],
             "cities": {}
           },
           "monterey county": {
             "name": "Monterey County",
-            "links": [],
+            "links": [
+              {
+                "title": "Monterey County Housing and Community Development - Building Services",
+                "url": "https://www.countyofmonterey.gov/government/departments-a-h/housing-community-development/development-services/building-services"
+              }
+            ],
             "cities": {}
           },
           "napa county": {
             "name": "Napa County",
-            "links": [],
+            "links": [
+              {
+                "title": "Napa County Planning, Building & Environmental Services - Building Division",
+                "url": "https://www.napacounty.gov/3492/Building-Division"
+              }
+            ],
             "cities": {}
           },
           "nevada county": {
             "name": "Nevada County",
-            "links": [],
+            "links": [
+              {
+                "title": "Nevada County Building Department",
+                "url": "https://www.nevadacountyca.gov/1114/Building-Department"
+              }
+            ],
             "cities": {}
           },
           "orange county": {
             "name": "Orange County",
-            "links": [],
+            "links": [
+              {
+                "title": "Orange County Development Services - Building and Safety",
+                "url": "https://pwds.oc.gov/service-areas/oc-development-services/building-safety"
+              }
+            ],
             "cities": {}
           },
           "placer county": {
@@ -225,137 +360,272 @@
           },
           "plumas county": {
             "name": "Plumas County",
-            "links": [],
+            "links": [
+              {
+                "title": "Plumas County Building Department",
+                "url": "https://www.plumascounty.us/77/Building-Department"
+              }
+            ],
             "cities": {}
           },
           "riverside county": {
             "name": "Riverside County",
-            "links": [],
+            "links": [
+              {
+                "title": "Riverside County Transportation and Land Management Agency - Building & Safety",
+                "url": "https://building.rctlma.org/"
+              }
+            ],
             "cities": {}
           },
           "sacramento county": {
             "name": "Sacramento County",
-            "links": [],
+            "links": [
+              {
+                "title": "Sacramento County Community Development - Building Permits & Inspection",
+                "url": "https://development.saccounty.gov/us/en/building-permits-inspection.html"
+              }
+            ],
             "cities": {}
           },
           "san benito county": {
             "name": "San Benito County",
-            "links": [],
+            "links": [
+              {
+                "title": "San Benito County Resource Management Agency - Building Services",
+                "url": "https://www.sanbenitocountyca.gov/departments/resource-management-agency/building-services-applications-and-forms"
+              }
+            ],
             "cities": {}
           },
           "san bernardino county": {
             "name": "San Bernardino County",
-            "links": [],
+            "links": [
+              {
+                "title": "San Bernardino County Land Use Services - Building and Safety",
+                "url": "https://lus.sbcounty.gov/building-safety-home/"
+              }
+            ],
             "cities": {}
           },
           "san diego county": {
             "name": "San Diego County",
-            "links": [],
+            "links": [
+              {
+                "title": "San Diego County Planning & Development Services - Building Division",
+                "url": "https://www.sandiegocounty.gov/content/sdc/pds/bldg.html"
+              }
+            ],
             "cities": {}
           },
           "san francisco county": {
             "name": "San Francisco County",
-            "links": [],
+            "links": [
+              {
+                "title": "San Francisco Department of Building Inspection",
+                "url": "https://www.sf.gov/departments--department-building-inspection"
+              }
+            ],
             "cities": {}
           },
           "san joaquin county": {
             "name": "San Joaquin County",
-            "links": [],
+            "links": [
+              {
+                "title": "San Joaquin County Community Development Department - Building",
+                "url": "https://www.sjgov.org/department/cdd/building"
+              }
+            ],
             "cities": {}
           },
           "san luis obispo county": {
             "name": "San Luis Obispo County",
-            "links": [],
+            "links": [
+              {
+                "title": "San Luis Obispo County Planning & Building Department",
+                "url": "https://www.slocounty.ca.gov/departments/planning-building"
+              }
+            ],
             "cities": {}
           },
           "san mateo county": {
             "name": "San Mateo County",
-            "links": [],
+            "links": [
+              {
+                "title": "San Mateo County Planning and Building Department",
+                "url": "https://www.smcgov.org/planning/building"
+              }
+            ],
             "cities": {}
           },
           "santa barbara county": {
             "name": "Santa Barbara County",
-            "links": [],
+            "links": [
+              {
+                "title": "Santa Barbara County Planning & Development - Building & Safety",
+                "url": "https://www.countyofsb.org/pl-directory-building-safety-division"
+              }
+            ],
             "cities": {}
           },
           "santa clara county": {
             "name": "Santa Clara County",
-            "links": [],
+            "links": [
+              {
+                "title": "Santa Clara County Department of Planning and Development - Building",
+                "url": "https://plandev.santaclaracounty.gov/home"
+              }
+            ],
             "cities": {}
           },
           "santa cruz county": {
             "name": "Santa Cruz County",
-            "links": [],
+            "links": [
+              {
+                "title": "Santa Cruz County Community Development & Infrastructure",
+                "url": "https://cdi.santacruzcountyca.gov/AboutUs.aspx"
+              }
+            ],
             "cities": {}
           },
           "shasta county": {
             "name": "Shasta County",
-            "links": [],
+            "links": [
+              {
+                "title": "Shasta County Department of Resource Management - Building Division",
+                "url": "https://www.shastacounty.gov/building"
+              }
+            ],
             "cities": {}
           },
           "sierra county": {
             "name": "Sierra County",
-            "links": [],
+            "links": [
+              {
+                "title": "Sierra County Planning Department and Building Inspection Division",
+                "url": "https://www.sierracounty.ca.gov/345/Planning-and-Building"
+              }
+            ],
             "cities": {}
           },
           "siskiyou county": {
             "name": "Siskiyou County",
-            "links": [],
+            "links": [
+              {
+                "title": "Siskiyou County Community Development Department - Building Division",
+                "url": "https://www.siskiyoucounty.gov/building"
+              }
+            ],
             "cities": {}
           },
           "solano county": {
             "name": "Solano County",
-            "links": [],
+            "links": [
+              {
+                "title": "Solano County Resource Management - Building & Safety Services",
+                "url": "https://aca-prod.accela.com/SOLANOCO/Default.aspx"
+              }
+            ],
             "cities": {}
           },
           "sonoma county": {
             "name": "Sonoma County",
-            "links": [],
+            "links": [
+              {
+                "title": "Permit Sonoma - Planning & Development Services",
+                "url": "https://permitsonoma.org/"
+              }
+            ],
             "cities": {}
           },
           "stanislaus county": {
             "name": "Stanislaus County",
-            "links": [],
+            "links": [
+              {
+                "title": "Stanislaus County Planning and Community Development - Building Permits Division",
+                "url": "https://www.stancounty.com/planning/bp/"
+              }
+            ],
             "cities": {}
           },
           "sutter county": {
             "name": "Sutter County",
-            "links": [],
+            "links": [
+              {
+                "title": "Sutter County Development Services - Building Services",
+                "url": "https://www.sutter.gov/government/county-departments/development-services/building-services"
+              }
+            ],
             "cities": {}
           },
           "tehama county": {
             "name": "Tehama County",
-            "links": [],
+            "links": [
+              {
+                "title": "Tehama County Building and Safety Department",
+                "url": "https://www.tehama.gov/government/departments/building-and-safety/"
+              }
+            ],
             "cities": {}
           },
           "trinity county": {
             "name": "Trinity County",
-            "links": [],
+            "links": [
+              {
+                "title": "Trinity County Community Development Department - Building Division",
+                "url": "https://www.trinitycounty.org/201/Building-Division"
+              }
+            ],
             "cities": {}
           },
           "tulare county": {
             "name": "Tulare County",
-            "links": [],
+            "links": [
+              {
+                "title": "Tulare County Resource Management Agency - Planning & Building",
+                "url": "https://tularecounty.ca.gov/rma/"
+              }
+            ],
             "cities": {}
           },
           "tuolumne county": {
             "name": "Tuolumne County",
-            "links": [],
+            "links": [
+              {
+                "title": "Tuolumne County Community Development Department - Building Division",
+                "url": "https://www.tuolumnecounty.ca.gov/171/Building-Division"
+              }
+            ],
             "cities": {}
           },
           "ventura county": {
             "name": "Ventura County",
-            "links": [],
+            "links": [
+              {
+                "title": "Ventura County Resource Management Agency - Building and Safety",
+                "url": "https://rma.venturacounty.gov/divisions/building-and-safety/"
+              }
+            ],
             "cities": {}
           },
           "yolo county": {
             "name": "Yolo County",
-            "links": [],
+            "links": [
+              {
+                "title": "Yolo County Community Services - Building Services",
+                "url": "https://www.yolocounty.gov/government/general-government-departments/community-services/building-inspection-services"
+              }
+            ],
             "cities": {}
           },
           "yuba county": {
             "name": "Yuba County",
-            "links": [],
+            "links": [
+              {
+                "title": "Yuba County Community Development - Building Department",
+                "url": "https://www.yuba.gov/departments/community_development/building/index.php"
+              }
+            ],
             "cities": {}
           }
         }
