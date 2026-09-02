@@ -44,6 +44,17 @@
         ],
         "counties": {}
       },
+      "ca": {
+        "name": "California",
+        "links": [],
+        "counties": {
+          "alameda county": {
+            "name": "Alameda County",
+            "links": [],
+            "cities": {}
+          }
+        }
+      },
       "co": {
         "name": "Colorado",
         "links": [
