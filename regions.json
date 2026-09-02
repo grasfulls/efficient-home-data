@@ -60,7 +60,12 @@
           },
           "alpine county": {
             "name": "Alpine County",
-            "links": [],
+            "links": [
+              {
+                "title": "Building Safety Division",
+                "url": "https://www.alpinecountyca.gov/157/Building-Safety-Division"
+              }
+            ],
             "cities": {}
           },
           "amador county": {
