@@ -1323,18 +1323,13 @@
           },
           "santa barbara county": {
             "name": "Santa Barbara County",
-            "links": [],
-            "cities": {
-              "woodside": {
-                "name": "Woodside",
-                "links": [
-                  {
-                    "title": "Santa Barbara County Planning & Development - Building & Safety",
-                    "url": "https://www.countyofsb.org/pl-directory-building-safety-division"
-                  }
-                ]
+            "links": [
+              {
+                "title": "Santa Barbara County Planning & Development - Building & Safety",
+                "url": "https://www.countyofsb.org/pl-directory-building-safety-division"
               }
-            }
+            ],
+            "cities": {}
           },
           "santa clara county": {
             "name": "Santa Clara County",
