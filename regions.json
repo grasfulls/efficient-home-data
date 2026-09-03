@@ -1322,83 +1322,183 @@
             "cities": {
               "atherton": {
                 "name": "Atherton",
-                "links": []
+                "links": [
+                  {
+                    "title": "Town of Atherton Building Department",
+                    "url": "https://www.athertonca.gov/147/Building"
+                  }
+                ]
               },
               "belmont": {
                 "name": "Belmont",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Belmont Building Department",
+                    "url": "https://www.belmont.gov/services/pay/permit-center"
+                  }
+                ]
               },
               "brisbane": {
                 "name": "Brisbane",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Brisbane Building Division",
+                    "url": "https://www.brisbaneca.gov/227/Building"
+                  }
+                ]
               },
               "burlingame": {
                 "name": "Burlingame",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Burlingame Building Division",
+                    "url": "https://www.burlingame.org/157/Building"
+                  }
+                ]
               },
               "colma": {
                 "name": "Colma",
-                "links": []
+                "links": [
+                  {
+                    "title": "Town of Colma Building Department",
+                    "url": "https://www.colma.ca.gov/departments/building/"
+                  }
+                ]
               },
               "daly city": {
                 "name": "Daly City",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Daly City Building Division",
+                    "url": "https://www.dalycity.org/164/Building"
+                  }
+                ]
               },
               "east palo alto": {
                 "name": "East Palo Alto",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of East Palo Alto Building Services Division",
+                    "url": "https://www.ci.east-palo-alto.ca.us/building"
+                  }
+                ]
               },
               "foster city": {
                 "name": "Foster City",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Foster City Building Division",
+                    "url": "https://www.fostercity.org/436/Building-Division"
+                  }
+                ]
               },
               "half moon bay": {
                 "name": "Half Moon Bay",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Half Moon Bay Building Services",
+                    "url": "https://www.halfmoonbay.gov/180/Building"
+                  }
+                ]
               },
               "hillsborough": {
                 "name": "Hillsborough",
-                "links": []
+                "links": [
+                  {
+                    "title": "Town of Hillsborough Building Division",
+                    "url": "https://www.hillsborough.net/130/Building-Division"
+                  }
+                ]
               },
               "menlo park": {
                 "name": "Menlo Park",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Menlo Park Building Division",
+                    "url": "https://www.menlopark.gov/Government/Departments/Community-Development/Building"
+                  }
+                ]
               },
               "millbrae": {
                 "name": "Millbrae",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Millbrae Building Division",
+                    "url": "https://www.ci.millbrae.ca.us/210/Building-Permit"
+                  }
+                ]
               },
               "pacifica": {
                 "name": "Pacifica",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Pacifica Building Division",
+                    "url": "https://www.cityofpacifica.org/departments/community-development/building-division"
+                  }
+                ]
               },
               "portola valley": {
                 "name": "Portola Valley",
-                "links": []
+                "links": [
+                  {
+                    "title": "Town of Portola Valley Building Division",
+                    "url": "https://www.portolavalley.net/departments/planning-building-department"
+                  }
+                ]
               },
               "redwood city": {
                 "name": "Redwood City",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of Redwood City Building Division",
+                    "url": "https://www.redwoodcity.org/departments/community-development-department/building-inspection-code-enforcement/plan-review/one-stop-service"
+                  }
+                ]
               },
               "san bruno": {
                 "name": "San Bruno",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of San Bruno Building Division",
+                    "url": "https://www.sanbruno.ca.gov/272/Building-Division"
+                  }
+                ]
               },
               "san carlos": {
                 "name": "San Carlos",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of San Carlos Building Division",
+                    "url": "https://www.cityofsancarlos.org/city_hall/departments_and_divisions/community_development/building/building_permits/index.php"
+                  }
+                ]
               },
               "san mateo": {
                 "name": "San Mateo",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of San Mateo Building Division",
+                    "url": "https://www.cityofsanmateo.org/477/Building"
+                  }
+                ]
               },
               "south san francisco": {
                 "name": "South San Francisco",
-                "links": []
+                "links": [
+                  {
+                    "title": "City of South San Francisco Building Division",
+                    "url": "https://www.ssfca.gov/Departments/Economic-and-Community-Development/Divisions/Building-Division"
+                  }
+                ]
               },
               "woodside": {
                 "name": "Woodside",
-                "links": []
+                "links": [
+                  {
+                    "title": "Town of Woodside Building Department",
+                    "url": "https://www.woodsidetown.org/157/Building"
+                  }
+                ]
               }
             }
           },
