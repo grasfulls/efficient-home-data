@@ -1319,7 +1319,88 @@
                 "url": "https://www.smcgov.org/planning/building"
               }
             ],
-            "cities": {}
+            "cities": {
+              "atherton": {
+                "name": "Atherton",
+                "links": []
+              },
+              "belmont": {
+                "name": "Belmont",
+                "links": []
+              },
+              "brisbane": {
+                "name": "Brisbane",
+                "links": []
+              },
+              "burlingame": {
+                "name": "Burlingame",
+                "links": []
+              },
+              "colma": {
+                "name": "Colma",
+                "links": []
+              },
+              "daly city": {
+                "name": "Daly City",
+                "links": []
+              },
+              "east palo alto": {
+                "name": "East Palo Alto",
+                "links": []
+              },
+              "foster city": {
+                "name": "Foster City",
+                "links": []
+              },
+              "half moon bay": {
+                "name": "Half Moon Bay",
+                "links": []
+              },
+              "hillsborough": {
+                "name": "Hillsborough",
+                "links": []
+              },
+              "menlo park": {
+                "name": "Menlo Park",
+                "links": []
+              },
+              "millbrae": {
+                "name": "Millbrae",
+                "links": []
+              },
+              "pacifica": {
+                "name": "Pacifica",
+                "links": []
+              },
+              "portola valley": {
+                "name": "Portola Valley",
+                "links": []
+              },
+              "redwood city": {
+                "name": "Redwood City",
+                "links": []
+              },
+              "san bruno": {
+                "name": "San Bruno",
+                "links": []
+              },
+              "san carlos": {
+                "name": "San Carlos",
+                "links": []
+              },
+              "san mateo": {
+                "name": "San Mateo",
+                "links": []
+              },
+              "south san francisco": {
+                "name": "South San Francisco",
+                "links": []
+              },
+              "woodside": {
+                "name": "Woodside",
+                "links": []
+              }
+            }
           },
           "santa barbara county": {
             "name": "Santa Barbara County",
